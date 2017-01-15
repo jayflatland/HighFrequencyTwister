@@ -1,0 +1,1 @@
+"c:\Program Files (x86)\Arduino\arduino_debug.exe" --upload --port COM6 c:\Users\jay\Projects\DeepCube\ArduinoUno_Phase3_Center_Drive\ArduinoUno_Phase3_Center_Drive.ino

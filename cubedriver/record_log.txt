@@ -1,0 +1,953 @@
+<the record>
+Solve Time: 996ms  Think Time: 117ms  Moves Time: 879ms
+Solution 0 time=909.000ms think=1.165ms cmd=vGpaEkrgqgEkxEkSbzb
+Solution 1 time=912.000ms think=8.755ms cmd=nKbEraFzorFxkOaxbz
+Solution 2 time=987.000ms think=8.108ms cmd=aSapcOzSovEpFvkOvkzbD
+Solution 3 time=1008.000ms think=3.867ms cmd=JzKazkvGrarEkKzKbKbqb
+Solution 4 time=870.000ms think=2.171ms cmd=rKbzgKrOvoHxbGbzKz
+Solution 5 time=909.000ms think=0.476ms cmd=vGpaEkrgqgEkxEkSbzb
+Solution 6 time=870.000ms think=0.339ms cmd=rKbzgKrOvoHxbGbzKz
+Solution 7 time=993.000ms think=1.803ms cmd=ozFcFumGpGkqkObEzbq
+Picking solution 4 think=8.936ms movesTime=870.000ms totalTime=944.936, cmd=rKbzgKrOvoHxbGbzKz
+solution: rKbzgKrOvoHxbGbzKz (18 moves)
+Solve Time: 901ms  Think Time: 25ms  Moves Time: 876ms  <============================= HERE IT IS!!!
+</the record>
+
+
+
+
+jflatland@nkclintrade:~ $ cd Projects/DeepCube/
+jflatland@nkclintrade:~/Projects/DeepCube $ cd cubedriver/
+jflatland@nkclintrade:~/Projects/DeepCube/cubedriver $ s
+jflatland@nkclintrade:~/Projects/DeepCube/cubedriver $ make
+make: Nothing to be done for `all'.
+jflatland@nkclintrade:~/Projects/DeepCube/cubedriver $ ./cubedriver cube_jay_tradefloor
+cam 4 exposure set to 166
+cam 4 exposure set to 200
+cam 4 exposure set to 233
+cam 4 exposure set to 266
+cam 4 exposure set to 300
+cam 4 exposure set to 333
+Early picking solution 0 think=0.880ms movesTime=636.000ms totalTime=702.880, cmd=HdsFqbzOqkRb
+solution: HdsFqbzOqkRb (12 moves)
+Early picking solution 0 think=0.590ms movesTime=636.000ms totalTime=702.590, cmd=HsdFkzbObzRq
+solution: HsdFkzbObzRq (12 moves)
+Early picking solution 1 think=0.300ms movesTime=636.000ms totalTime=702.300, cmd=dsHbFzOkOznq
+solution: dsHbFzOkOznq (12 moves)
+Early picking solution 0 think=0.580ms movesTime=636.000ms totalTime=702.580, cmd=HsdFbzkObqRz
+solution: HsdFbzkObqRz (12 moves)
+Early picking solution 0 think=0.394ms movesTime=480.000ms totalTime=546.394, cmd=FzbxkqFx
+solution: FzbxkqFx (8 moves)
+Early picking solution 0 think=0.412ms movesTime=636.000ms totalTime=702.412, cmd=HsdFbzbFbzRz
+solution: HsdFbzbFbzRz (12 moves)
+Early picking solution 0 think=0.306ms movesTime=420.000ms totalTime=486.306, cmd=FziqiFi
+solution: FziqiFi (7 moves)
+Early picking solution 0 think=0.261ms movesTime=636.000ms totalTime=702.261, cmd=HdsFzbqOqbRk
+solution: HdsFzbqOqbRk (12 moves)
+Early picking solution 0 think=0.396ms movesTime=636.000ms totalTime=702.396, cmd=HdsFqbzOqkRb
+solution: HdsFqbzOqkRb (12 moves)
+Early picking solution 0 think=0.628ms movesTime=636.000ms totalTime=702.628, cmd=HsdFkzbObzRq
+solution: HsdFkzbObzRq (12 moves)
+Early picking solution 0 think=0.307ms movesTime=636.000ms totalTime=702.307, cmd=HdsFzbzFqkRk
+solution: HdsFzbzFqkRk (12 moves)
+Early picking solution 0 think=1.402ms movesTime=636.000ms totalTime=703.402, cmd=HsdFbzkObqRz
+solution: HsdFbzkObqRz (12 moves)
+Early picking solution 0 think=0.267ms movesTime=480.000ms totalTime=546.267, cmd=FzbxkqFx
+solution: FzbxkqFx (8 moves)
+Early picking solution 0 think=0.790ms movesTime=636.000ms totalTime=702.790, cmd=HsdFbzbFbzRz
+solution: HsdFbzbFbzRz (12 moves)
+Early picking solution 0 think=0.474ms movesTime=420.000ms totalTime=486.474, cmd=FziqiFi
+solution: FziqiFi (7 moves)
+Early picking solution 0 think=0.394ms movesTime=636.000ms totalTime=702.394, cmd=HdsFzbqOqbRk
+solution: HdsFzbqOqbRk (12 moves)
+Solution 0 time=933.000ms think=13.855ms cmd=AbFrcDEtgIzGkFbzkO
+Solution 1 time=972.000ms think=15.013ms cmd=cwEqkpLqGaFczkzgFoz
+Solution 2 time=834.000ms think=19.126ms cmd=dOorkzQrapOyOiBk
+Solution 3 time=969.000ms think=17.936ms cmd=KbOrSqSoqElSqGqkGqkG
+Solution 4 time=933.000ms think=1.866ms cmd=AbFrcDEtgIzGkFbzkO
+Solution 5 time=933.000ms think=9.690ms cmd=AbFrcDEtgIzGkFbzkO
+Solution 6 time=933.000ms think=14.612ms cmd=AbFrcDEtgIzGkFbzkO
+Solution 7 time=1071.000ms think=6.136ms cmd=oFbFzSgrjKgFkSkGkEkqk
+Picking solution 2 think=19.288ms movesTime=834.000ms totalTime=919.288, cmd=dOorkzQrapOyOiBk
+solution: dOorkzQrapOyOiBk (16 moves)
+Early picking solution 1 think=10.101ms movesTime=750.000ms totalTime=826.101, cmd=zgSkvcSrOgGzMoqo
+solution: zgSkvcSrOgGzMoqo (16 moves)
+Solution 0 time=1032.000ms think=24.951ms cmd=EaFDKbKqmFrkFqEzHbqk
+Solution 1 time=912.000ms think=9.666ms cmd=cBjScqcDGkOxkOzgFg
+Solution 2 time=972.000ms think=27.909ms cmd=OrSkSDaFvkEzObqODiO
+Solution 3 time=870.000ms think=34.046ms cmd=MvEgsmpkpEqKbEqFxK
+Solution 4 time=1110.000ms think=2.506ms cmd=pEvcrgOoEkODGbOkqkqOkO
+Solution 5 time=1074.000ms think=10.342ms cmd=vFkFjFzcSbvkEzOkNbGq
+Solution 6 time=1029.000ms think=11.004ms cmd=CgrcFbzKkrcEbGbKqEbzF
+Solution 7 time=1029.000ms think=3.097ms cmd=oEgzkDavKrFgqIbSkKkqk
+Picking solution 3 think=34.200ms movesTime=870.000ms totalTime=970.200, cmd=MvEgsmpkpEqKbEqFxK
+solution: MvEgsmpkpEqKbEqFxK (18 moves)
+Solution 0 time=990.000ms think=5.516ms cmd=EcDKzbFvEqoqSxKkGbqO
+Solution 1 time=1071.000ms think=52.194ms cmd=czcSvOgvOqcSaOqOjqOqF
+Solution 2 time=909.000ms think=32.325ms cmd=SgrGpgEcASkOkDFzbzk
+Solution 3 time=1011.000ms think=2.796ms cmd=KaODcBSrkpFzEzObGzOz
+Solution 4 time=1011.000ms think=1.487ms cmd=pFpOcIczkrKzbKzKqKbF
+Solution 5 time=1068.000ms think=9.222ms cmd=vFqozSgGbGkpSqKkqKkEqK
+Solution 6 time=1110.000ms think=7.748ms cmd=rFDgpkSgFzarEqFqFkzbGz
+Solution 7 time=909.000ms think=1.178ms cmd=ozlSDaDGbvGiGzFbzkE
+Picking solution 2 think=52.360ms movesTime=909.000ms totalTime=1027.360, cmd=SgrGpgEcASkOkDFzbzk
+solution: SgrGpgEcASkOkDFzbzk (19 moves)
+Solution 0 time=990.000ms think=5.544ms cmd=EcDKzbFvEqoqSxKkGbqO
+Solution 1 time=1071.000ms think=52.390ms cmd=czcSvOgvOqcSaOqOjqOqF
+Solution 2 time=909.000ms think=32.900ms cmd=SgrGpgEcASkOkDFzbzk
+Solution 3 time=1011.000ms think=3.191ms cmd=KaODcBSrkpFzEzObGzOz
+Solution 4 time=1011.000ms think=1.459ms cmd=pFpOcIczkrKzbKzKqKbF
+Solution 5 time=1068.000ms think=8.977ms cmd=vFqozSgGbGkpSqKkqKkEqK
+Solution 6 time=1110.000ms think=7.702ms cmd=rFDgpkSgFzarEqFqFkzbGz
+Solution 7 time=909.000ms think=1.519ms cmd=ozlSDaDGbvGiGzFbzkE
+Picking solution 2 think=52.495ms movesTime=909.000ms totalTime=1027.495, cmd=SgrGpgEcASkOkDFzbzk
+solution: SgrGpgEcASkOkDFzbzk (19 moves)
+Solution 0 time=990.000ms think=5.470ms cmd=EcDKzbFvEqoqSxKkGbqO
+Solution 1 time=1071.000ms think=51.823ms cmd=czcSvOgvOqcSaOqOjqOqF
+Solution 2 time=909.000ms think=30.775ms cmd=SgrGpgEcASkOkDFzbzk
+Solution 3 time=1011.000ms think=3.755ms cmd=KaODcBSrkpFzEzObGzOz
+Solution 4 time=1011.000ms think=1.461ms cmd=pFpOcIczkrKzbKzKqKbF
+Solution 5 time=1068.000ms think=9.209ms cmd=vFqozSgGbGkpSqKkqKkEqK
+Solution 6 time=1110.000ms think=6.563ms cmd=rFDgpkSgFzarEqFqFkzbGz
+Solution 7 time=909.000ms think=1.565ms cmd=ozlSDaDGbvGiGzFbzkE
+Picking solution 2 think=51.973ms movesTime=909.000ms totalTime=1026.973, cmd=SgrGpgEcASkOkDFzbzk
+solution: SgrGpgEcASkOkDFzbzk (19 moves)
+Solution 0 time=990.000ms think=5.480ms cmd=EcDKzbFvEqoqSxKkGbqO
+Solution 1 time=1071.000ms think=51.135ms cmd=czcSvOgvOqcSaOqOjqOqF
+Solution 2 time=909.000ms think=30.511ms cmd=SgrGpgEcASkOkDFzbzk
+Solution 3 time=1011.000ms think=3.820ms cmd=KaODcBSrkpFzEzObGzOz
+Solution 4 time=1011.000ms think=1.496ms cmd=pFpOcIczkrKzbKzKqKbF
+Solution 5 time=1068.000ms think=9.146ms cmd=vFqozSgGbGkpSqKkqKkEqK
+Solution 6 time=1110.000ms think=6.556ms cmd=rFDgpkSgFzarEqFqFkzbGz
+Solution 7 time=909.000ms think=1.600ms cmd=ozlSDaDGbvGiGzFbzkE
+Picking solution 2 think=51.318ms movesTime=909.000ms totalTime=1026.318, cmd=SgrGpgEcASkOkDFzbzk
+solution: SgrGpgEcASkOkDFzbzk (19 moves)
+Solve Time: 1080ms  Think Time: 165ms  Moves Time: 915ms
+Early picking solution 2 think=1.576ms movesTime=432.000ms totalTime=499.576, cmd=rkFroSoSor
+solution: rkFroSoSor (10 moves)
+Solution 0 time=912.000ms think=4.450ms cmd=FDLcFzcFpaqKzKkHzi
+Solution 1 time=951.000ms think=1.475ms cmd=BSkGgpScraObFzbOaqO
+Solution 2 time=1011.000ms think=13.703ms cmd=hvOoOcEkKcFzbFDFpkrb
+Solution 3 time=909.000ms think=15.174ms cmd=HvNvhvSvgpSbzkSqGqi
+Solution 4 time=987.000ms think=14.778ms cmd=soKDavaFrgpbzbEzOqGqK
+Solution 5 time=1008.000ms think=17.162ms cmd=vOaKozoEqEavbSzSkSqkz
+Solution 6 time=1008.000ms think=6.209ms cmd=rGrGravcFkKgFqSkSqkFk
+Solution 7 time=969.000ms think=4.682ms cmd=oQzOcqopoODGkEkKqEiG
+Picking solution 3 think=17.339ms movesTime=909.000ms totalTime=992.339, cmd=HvNvhvSvgpSbzkSqGqi
+solution: HvNvhvSvgpSbzkSqGqi (19 moves)
+Early picking solution 0 think=9.674ms movesTime=810.000ms totalTime=885.674, cmd=zJvKfpkvgqSxEqGbF
+solution: zJvKfpkvgqSxEqGbF (17 moves)
+Solution 0 time=909.000ms think=1.239ms cmd=aEAGkDFapKzKzbGzKbF
+Solution 1 time=972.000ms think=17.240ms cmd=OhDKaGkEvSqOaObzOeO
+Solution 2 time=849.000ms think=3.007ms cmd=AOrEcJvKhpFDkpFvFb
+Solution 3 time=1068.000ms think=10.888ms cmd=KDKzgFoKaScrbzEbEkqFqO
+Solution 4 time=909.000ms think=8.490ms cmd=AaGgvmGbEDEzGqIbzGb
+Solution 5 time=909.000ms think=13.850ms cmd=aEAGkDFapKzKzbGzKbF
+Solution 6 time=909.000ms think=16.652ms cmd=aEAGkDFapKzKzbGzKbF
+Solution 7 time=909.000ms think=10.310ms cmd=aEAGkDFapKzKzbGzKbF
+Picking solution 2 think=17.419ms movesTime=849.000ms totalTime=932.419, cmd=AOrEcJvKhpFDkpFvFb
+solution: AOrEcJvKhpFDkpFvFb (18 moves)
+Solution 0 time=909.000ms think=1.240ms cmd=aEAGkDFapKzKzbGzKbF
+Solution 1 time=972.000ms think=17.903ms cmd=OhDKaGkEvSqOaObzOeO
+Solution 2 time=849.000ms think=3.023ms cmd=AOrEcJvKhpFDkpFvFb
+Solution 3 time=1068.000ms think=10.561ms cmd=KDKzgFoKaScrbzEbEkqFqO
+Solution 4 time=909.000ms think=8.992ms cmd=AaGgvmGbEDEzGqIbzGb
+Solution 5 time=909.000ms think=13.834ms cmd=aEAGkDFapKzKzbGzKbF
+Solution 6 time=909.000ms think=15.058ms cmd=aEAGkDFapKzKzbGzKbF
+Solution 7 time=909.000ms think=10.757ms cmd=aEAGkDFapKzKzbGzKbF
+Picking solution 2 think=18.029ms movesTime=849.000ms totalTime=933.029, cmd=AOrEcJvKhpFDkpFvFb
+solution: AOrEcJvKhpFDkpFvFb (18 moves)
+Solve Time: 944ms  Think Time: 81ms  Moves Time: 863ms
+Solution 0 time=933.000ms think=46.435ms cmd=EwSoBExbrkSqbGbLbF
+Solution 1 time=951.000ms think=13.582ms cmd=KavKkSzKkpKjFzMzaFz
+Solution 2 time=1011.000ms think=3.852ms cmd=qGcFDkGyEapkFpbOzkFp
+Solution 3 time=933.000ms think=25.394ms cmd=JaOkFDIbuSqOqbEzSi
+Solution 4 time=990.000ms think=11.176ms cmd=skGazlzSgvkSkSqkEzOq
+Solution 5 time=990.000ms think=14.242ms cmd=vGaOBoQDFDKkqGqbGqKz
+Solution 6 time=1029.000ms think=6.249ms cmd=rQpKpEcFvkpKbzFkqGkSz
+Solution 7 time=987.000ms think=27.778ms cmd=oEdpGzSovkEvOxEzGqEkz
+Picking solution 0 think=46.621ms movesTime=933.000ms totalTime=1045.621, cmd=EwSoBExbrkSqbGbLbF
+solution: EwSoBExbrkSqbGbLbF (18 moves)
+Solution 0 time=933.000ms think=46.926ms cmd=EwSoBExbrkSqbGbLbF
+Solution 1 time=951.000ms think=13.002ms cmd=KavKkSzKkpKjFzMzaFz
+Solution 2 time=1011.000ms think=4.128ms cmd=qGcFDkGyEapkFpbOzkFp
+Solution 3 time=933.000ms think=26.089ms cmd=JaOkFDIbuSqOqbEzSi
+Solution 4 time=990.000ms think=10.981ms cmd=skGazlzSgvkSkSqkEzOq
+Solution 5 time=990.000ms think=14.671ms cmd=vGaOBoQDFDKkqGqbGqKz
+Solution 6 time=1029.000ms think=6.592ms cmd=rQpKpEcFvkpKbzFkqGkSz
+Solution 7 time=987.000ms think=27.785ms cmd=oEdpGzSovkEvOxEzGqEkz
+Picking solution 0 think=47.064ms movesTime=933.000ms totalTime=1046.064, cmd=EwSoBExbrkSqbGbLbF
+solution: EwSoBExbrkSqbGbLbF (18 moves)
+Solve Time: 960ms  Think Time: 6ms  Moves Time: 955ms
+Solution 0 time=1008.000ms think=4.603ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=8.429ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=60.670ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=10.389ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=16.041ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.130ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=5.353ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=21.242ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=60.823ms movesTime=870.000ms totalTime=996.823, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solution 0 time=1008.000ms think=6.105ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=7.666ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=60.563ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=8.557ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=14.789ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.289ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=5.595ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=20.896ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=60.774ms movesTime=870.000ms totalTime=996.774, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solution 0 time=1008.000ms think=6.139ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=9.432ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=60.742ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=7.971ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=14.337ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.302ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=5.639ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=20.957ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=61.200ms movesTime=870.000ms totalTime=997.200, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solution 0 time=1008.000ms think=6.184ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=9.433ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=60.717ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=7.886ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=14.380ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.309ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=5.682ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=20.980ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=61.226ms movesTime=870.000ms totalTime=997.226, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solution 0 time=1008.000ms think=6.124ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=9.399ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=60.761ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=9.572ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=15.118ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.261ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=4.608ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=20.837ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=60.953ms movesTime=870.000ms totalTime=996.953, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solution 0 time=1008.000ms think=6.148ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=8.901ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=60.541ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=10.427ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=15.923ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.149ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=4.079ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=21.131ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=60.737ms movesTime=870.000ms totalTime=996.737, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solution 0 time=1008.000ms think=6.101ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=9.340ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=59.778ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=9.983ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=13.425ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.131ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=5.485ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=20.704ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=59.977ms movesTime=870.000ms totalTime=995.977, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solution 0 time=1008.000ms think=5.839ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=9.435ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=61.172ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=9.114ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=13.394ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.299ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=5.623ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=20.942ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=61.327ms movesTime=870.000ms totalTime=997.327, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solution 0 time=1008.000ms think=4.498ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=8.275ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=60.256ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=10.296ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=14.858ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.266ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=5.610ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=21.760ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=60.408ms movesTime=870.000ms totalTime=996.408, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solution 0 time=1008.000ms think=4.939ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=8.384ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=66.016ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=10.413ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=16.838ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.321ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=5.555ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=25.676ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=66.204ms movesTime=870.000ms totalTime=1002.204, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solution 0 time=1008.000ms think=4.855ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=8.367ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=61.021ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=9.757ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=15.019ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.305ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=5.459ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=21.740ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=61.145ms movesTime=870.000ms totalTime=997.145, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solution 0 time=1008.000ms think=6.139ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=9.363ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=59.004ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=10.009ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=14.290ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.292ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=5.627ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=20.875ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=59.189ms movesTime=870.000ms totalTime=995.189, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solution 0 time=1008.000ms think=6.126ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=9.291ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=58.928ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=10.295ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=14.417ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.300ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=5.554ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=21.174ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=59.106ms movesTime=870.000ms totalTime=995.106, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solution 0 time=1008.000ms think=6.231ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=6.740ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=60.249ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=10.244ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=14.547ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.303ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=5.450ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=22.121ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=60.449ms movesTime=870.000ms totalTime=996.449, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solution 0 time=1008.000ms think=4.588ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=9.057ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=61.117ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=9.692ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=14.384ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.115ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=5.693ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=20.856ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=61.344ms movesTime=870.000ms totalTime=997.344, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solution 0 time=1008.000ms think=4.472ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=9.433ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=60.900ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=10.002ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=14.329ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.304ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=5.576ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=21.874ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=61.068ms movesTime=870.000ms totalTime=997.068, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solution 0 time=1008.000ms think=4.938ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 1 time=870.000ms think=9.322ms cmd=KoqavOcKCGqaOgOzMm
+Solution 2 time=1011.000ms think=61.651ms cmd=ErcQbqOaOvGvFzbDbrFi
+Solution 3 time=948.000ms think=9.959ms cmd=KaGAoEozKoDEqQkzkKqk
+Solution 4 time=888.000ms think=14.298ms cmd=pbGvnvgKgsGzEbMqEqk
+Solution 5 time=1008.000ms think=0.316ms cmd=vEvorkKvcKgFzFkEqFbGz
+Solution 6 time=894.000ms think=5.566ms cmd=rFkEhrQhpQzkSzSxk
+Solution 7 time=966.000ms think=23.072ms cmd=oEeGcrKdvgrGkqOzEbGkS
+Picking solution 1 think=61.777ms movesTime=870.000ms totalTime=997.777, cmd=KoqavOcKCGqaOgOzMm
+solution: KoqavOcKCGqaOgOzMm (18 moves)
+Solve Time: 891ms  Think Time: 9ms  Moves Time: 882ms
+Early picking solution 0 think=0.299ms movesTime=636.000ms totalTime=702.299, cmd=HdsFqbzOqkRb
+solution: HdsFqbzOqkRb (12 moves)
+Early picking solution 0 think=0.456ms movesTime=636.000ms totalTime=702.456, cmd=HsdFkzbObzRq
+solution: HsdFkzbObzRq (12 moves)
+Early picking solution 0 think=0.282ms movesTime=636.000ms totalTime=702.282, cmd=HdsFzbzFqkRk
+solution: HdsFzbzFqkRk (12 moves)
+Early picking solution 0 think=0.761ms movesTime=636.000ms totalTime=702.761, cmd=HsdFbzkObqRz
+solution: HsdFbzkObqRz (12 moves)
+Early picking solution 1 think=0.382ms movesTime=480.000ms totalTime=546.382, cmd=bzOxFqbx
+solution: bzOxFqbx (8 moves)
+Early picking solution 0 think=0.418ms movesTime=636.000ms totalTime=702.418, cmd=HsdFbzbFbzRz
+solution: HsdFbzbFbzRz (12 moves)
+Early picking solution 0 think=0.383ms movesTime=420.000ms totalTime=486.383, cmd=FziqiFi
+solution: FziqiFi (7 moves)
+Early picking solution 0 think=0.251ms movesTime=636.000ms totalTime=702.251, cmd=HdsFzbqOqbRk
+solution: HdsFzbqOqbRk (12 moves)
+Early picking solution 0 think=0.405ms movesTime=636.000ms totalTime=702.405, cmd=HdsFqbzOqkRb
+solution: HdsFqbzOqkRb (12 moves)
+Early picking solution 0 think=0.946ms movesTime=636.000ms totalTime=702.946, cmd=HsdFkzbObzRq
+solution: HsdFkzbObzRq (12 moves)
+Early picking solution 0 think=0.289ms movesTime=636.000ms totalTime=702.289, cmd=HdsFzbzFqkRk
+solution: HdsFzbzFqkRk (12 moves)
+Early picking solution 0 think=0.458ms movesTime=636.000ms totalTime=702.458, cmd=HsdFbzkObqRz
+solution: HsdFbzkObqRz (12 moves)
+Early picking solution 0 think=0.351ms movesTime=480.000ms totalTime=546.351, cmd=FzbxkqFx
+solution: FzbxkqFx (8 moves)
+Early picking solution 0 think=0.787ms movesTime=636.000ms totalTime=702.787, cmd=HsdFbzbFbzRz
+solution: HsdFbzbFbzRz (12 moves)
+Early picking solution 0 think=0.404ms movesTime=420.000ms totalTime=486.404, cmd=FziqiFi
+solution: FziqiFi (7 moves)
+Early picking solution 0 think=0.441ms movesTime=636.000ms totalTime=702.441, cmd=HdsFzbqOqbRk
+solution: HdsFzbqOqbRk (12 moves)
+Early picking solution 0 think=16.825ms movesTime=789.000ms totalTime=871.825, cmd=apaRdrHgziSqEqEbz
+solution: apaRdrHgziSqEqEbz (17 moves)
+Solve Time: 894ms  Think Time: 79ms  Moves Time: 815ms
+Solution 0 time=909.000ms think=36.770ms cmd=MaScDoGaDEpkzKqkzFi
+Solution 1 time=870.000ms think=9.306ms cmd=KkrSvoJzgDOaqoqFbF
+Solution 2 time=1089.000ms think=52.106ms cmd=EoparSqkOpoSzOkrOkqFkp
+Solution 3 time=1068.000ms think=32.022ms cmd=IcKkFrGoDaOpSkzEqGkEkF
+Solution 4 time=1068.000ms think=34.088ms cmd=pLgGrkEaKroDSbqOqbqKkF
+Solution 5 time=1050.000ms think=16.292ms cmd=vSgOpbHcDgDkFqbFqGqFb
+Solution 6 time=1029.000ms think=26.510ms cmd=rEoSbDcKrozcBkSqbQqOb
+Solution 7 time=966.000ms think=5.825ms cmd=oGovKrOcGrdqKzKzkGqGb
+Picking solution 1 think=52.288ms movesTime=870.000ms totalTime=988.288, cmd=KkrSvoJzgDOaqoqFbF
+solution: KkrSvoJzgDOaqoqFbF (18 moves)
+Solve Time: 996ms  Think Time: 117ms  Moves Time: 879ms
+Solution 0 time=909.000ms think=1.165ms cmd=vGpaEkrgqgEkxEkSbzb
+Solution 1 time=912.000ms think=8.755ms cmd=nKbEraFzorFxkOaxbz
+Solution 2 time=987.000ms think=8.108ms cmd=aSapcOzSovEpFvkOvkzbD
+Solution 3 time=1008.000ms think=3.867ms cmd=JzKazkvGrarEkKzKbKbqb
+Solution 4 time=870.000ms think=2.171ms cmd=rKbzgKrOvoHxbGbzKz
+Solution 5 time=909.000ms think=0.476ms cmd=vGpaEkrgqgEkxEkSbzb
+Solution 6 time=870.000ms think=0.339ms cmd=rKbzgKrOvoHxbGbzKz
+Solution 7 time=993.000ms think=1.803ms cmd=ozFcFumGpGkqkObEzbq
+Picking solution 4 think=8.936ms movesTime=870.000ms totalTime=944.936, cmd=rKbzgKrOvoHxbGbzKz
+solution: rKbzgKrOvoHxbGbzKz (18 moves)
+Solve Time: 901ms  Think Time: 25ms  Moves Time: 876ms  <============================= HERE IT IS!!!
+Early picking solution 0 think=0.352ms movesTime=636.000ms totalTime=702.352, cmd=HdsFqbzOqkRb
+solution: HdsFqbzOqkRb (12 moves)
+Early picking solution 0 think=0.598ms movesTime=636.000ms totalTime=702.598, cmd=HsdFkzbObzRq
+solution: HsdFkzbObzRq (12 moves)
+Early picking solution 0 think=0.340ms movesTime=636.000ms totalTime=702.340, cmd=HdsFzbzFqkRk
+solution: HdsFzbzFqkRk (12 moves)
+Early picking solution 0 think=0.504ms movesTime=636.000ms totalTime=702.504, cmd=HsdFbzkObqRz
+solution: HsdFbzkObqRz (12 moves)
+Early picking solution 0 think=0.358ms movesTime=480.000ms totalTime=546.358, cmd=FzbxkqFx
+solution: FzbxkqFx (8 moves)
+Early picking solution 0 think=0.537ms movesTime=636.000ms totalTime=702.537, cmd=HsdFbzbFbzRz
+solution: HsdFbzbFbzRz (12 moves)
+Early picking solution 0 think=0.398ms movesTime=420.000ms totalTime=486.398, cmd=FziqiFi
+solution: FziqiFi (7 moves)
+Early picking solution 0 think=0.300ms movesTime=636.000ms totalTime=702.300, cmd=HdsFzbqOqbRk
+solution: HdsFzbqOqbRk (12 moves)
+Early picking solution 0 think=0.269ms movesTime=636.000ms totalTime=702.269, cmd=HdsFqbzOqkRb
+solution: HdsFqbzOqkRb (12 moves)
+Early picking solution 0 think=0.596ms movesTime=636.000ms totalTime=702.596, cmd=HsdFkzbObzRq
+solution: HsdFkzbObzRq (12 moves)
+Early picking solution 1 think=0.347ms movesTime=636.000ms totalTime=702.347, cmd=dsHbFzOkOznq
+solution: dsHbFzOkOznq (12 moves)
+Early picking solution 0 think=1.429ms movesTime=636.000ms totalTime=703.429, cmd=HsdFbzkObqRz
+solution: HsdFbzkObqRz (12 moves)
+Early picking solution 0 think=0.348ms movesTime=480.000ms totalTime=546.348, cmd=FzbxkqFx
+solution: FzbxkqFx (8 moves)
+Early picking solution 0 think=0.236ms movesTime=636.000ms totalTime=702.236, cmd=HsdFbzbFbzRz
+solution: HsdFbzbFbzRz (12 moves)
+Early picking solution 0 think=0.381ms movesTime=420.000ms totalTime=486.381, cmd=FziqiFi
+solution: FziqiFi (7 moves)
+Early picking solution 0 think=0.277ms movesTime=636.000ms totalTime=702.277, cmd=HdsFzbqOqbRk
+solution: HdsFzbqOqbRk (12 moves)
+cam 3 exposure set to 66
+cam 3 exposure set to 100
+cam 4 exposure set to 366
+cam 4 exposure set to 400
+cam 4 exposure set to 366
+cam 4 exposure set to 333
+Early picking solution 1 think=0.325ms movesTime=636.000ms totalTime=702.325, cmd=dsHbOzFkOqnz
+solution: dsHbOzFkOqnz (12 moves)
+Early picking solution 0 think=0.597ms movesTime=636.000ms totalTime=702.597, cmd=HsdFkzbObzRq
+solution: HsdFkzbObzRq (12 moves)
+Early picking solution 0 think=0.328ms movesTime=636.000ms totalTime=702.328, cmd=HdsFzbzFqkRk
+solution: HdsFzbzFqkRk (12 moves)
+Early picking solution 0 think=0.611ms movesTime=636.000ms totalTime=702.611, cmd=HsdFbzkObqRz
+solution: HsdFbzkObqRz (12 moves)
+Early picking solution 0 think=0.267ms movesTime=480.000ms totalTime=546.267, cmd=FzbxkqFx
+solution: FzbxkqFx (8 moves)
+Early picking solution 0 think=0.269ms movesTime=636.000ms totalTime=702.269, cmd=HsdFbzbFbzRz
+solution: HsdFbzbFbzRz (12 moves)
+Early picking solution 0 think=0.404ms movesTime=420.000ms totalTime=486.404, cmd=FziqiFi
+solution: FziqiFi (7 moves)
+Early picking solution 0 think=0.435ms movesTime=636.000ms totalTime=702.435, cmd=HdsFzbqOqbRk
+solution: HdsFzbqOqbRk (12 moves)
+Early picking solution 0 think=0.390ms movesTime=636.000ms totalTime=702.390, cmd=HdsFqbzOqkRb
+solution: HdsFqbzOqkRb (12 moves)
+Early picking solution 0 think=1.474ms movesTime=636.000ms totalTime=703.474, cmd=HsdFkzbObzRq
+solution: HsdFkzbObzRq (12 moves)
+Early picking solution 0 think=0.336ms movesTime=636.000ms totalTime=702.336, cmd=HdsFzbzFqkRk
+solution: HdsFzbzFqkRk (12 moves)
+Early picking solution 0 think=0.328ms movesTime=636.000ms totalTime=702.328, cmd=HdsFzbzFqkRk
+solution: HdsFzbzFqkRk (12 moves)
+Early picking solution 0 think=0.454ms movesTime=636.000ms totalTime=702.454, cmd=HdsFzbzFqkRk
+solution: HdsFzbzFqkRk (12 moves)
+Early picking solution 0 think=1.211ms movesTime=636.000ms totalTime=703.211, cmd=HsdFbzkObqRz
+solution: HsdFbzkObqRz (12 moves)
+Early picking solution 0 think=0.349ms movesTime=480.000ms totalTime=546.349, cmd=FzbxkqFx
+solution: FzbxkqFx (8 moves)
+Early picking solution 0 think=0.480ms movesTime=636.000ms totalTime=702.480, cmd=HsdFbzbFbzRz
+solution: HsdFbzbFbzRz (12 moves)
+Early picking solution 0 think=0.368ms movesTime=420.000ms totalTime=486.368, cmd=FziqiFi
+solution: FziqiFi (7 moves)
+Early picking solution 0 think=0.255ms movesTime=636.000ms totalTime=702.255, cmd=HdsFzbqOqbRk
+solution: HdsFzbqOqbRk (12 moves)
+0: 22449 frames in 754.18 seconds (29.77 FPS)
+1: 22446 frames in 754.09 seconds (29.77 FPS)
+2: 22437 frames in 753.84 seconds (29.76 FPS)
+3: 22484 frames in 753.50 seconds (29.84 FPS)
+~CapV4L2()
+~CapV4L2()
+~CapV4L2()
+~CapV4L2()
+jflatland@nkclintrade:~/Projects/DeepCube/cubedriver $ ./cubedriver cube_jay_tradefloor
+Early picking solution 0 think=0.652ms movesTime=700.000ms totalTime=766.652, cmd=HdsFqbzOqkRb
+solution: HdsFqbzOqkRb (12 moves)
+Early picking solution 1 think=0.250ms movesTime=700.000ms totalTime=766.250, cmd=dHsbqOqbqOnO
+solution: dHsbqOqbqOnO (12 moves)
+Early picking solution 0 think=0.227ms movesTime=700.000ms totalTime=766.227, cmd=HdsFzbzFqkRk
+solution: HdsFzbzFqkRk (12 moves)
+Early picking solution 1 think=0.472ms movesTime=700.000ms totalTime=766.472, cmd=dHsbzOqkqOnF
+solution: dHsbzOqkqOnF (12 moves)
+Early picking solution 0 think=0.326ms movesTime=536.000ms totalTime=602.326, cmd=FzbxkqFx
+solution: FzbxkqFx (8 moves)
+Early picking solution 1 think=0.284ms movesTime=700.000ms totalTime=766.284, cmd=dHsbqOzkqFnO
+solution: dHsbqOzkqFnO (12 moves)
+Early picking solution 0 think=0.360ms movesTime=469.000ms totalTime=535.360, cmd=FziqiFi
+solution: FziqiFi (7 moves)
+Early picking solution 0 think=0.363ms movesTime=700.000ms totalTime=766.363, cmd=HdsFzbqOqbRk
+solution: HdsFzbqOqbRk (12 moves)
+Early picking solution 0 think=0.352ms movesTime=700.000ms totalTime=766.352, cmd=HdsFqbzOqkRb
+solution: HdsFqbzOqkRb (12 moves)
+Early picking solution 0 think=0.581ms movesTime=700.000ms totalTime=766.581, cmd=HsdFkzbObzRq
+solution: HsdFkzbObzRq (12 moves)
+Early picking solution 0 think=0.376ms movesTime=700.000ms totalTime=766.376, cmd=HdsFzbzFqkRk
+solution: HdsFzbzFqkRk (12 moves)
+Early picking solution 0 think=0.586ms movesTime=700.000ms totalTime=766.586, cmd=HsdFbzkObqRz
+solution: HsdFbzkObqRz (12 moves)
+Early picking solution 0 think=0.343ms movesTime=536.000ms totalTime=602.343, cmd=FzbxkqFx
+solution: FzbxkqFx (8 moves)
+Early picking solution 0 think=0.468ms movesTime=700.000ms totalTime=766.468, cmd=HsdFbzbFbzRz
+solution: HsdFbzbFbzRz (12 moves)
+Early picking solution 0 think=0.352ms movesTime=469.000ms totalTime=535.352, cmd=FziqiFi
+solution: FziqiFi (7 moves)
+Early picking solution 0 think=0.300ms movesTime=700.000ms totalTime=766.300, cmd=HdsFzbqOqbRk
+solution: HdsFzbqOqbRk (12 moves)
+Early picking solution 0 think=0.381ms movesTime=700.000ms totalTime=766.381, cmd=HdsFqbzOqkRb
+solution: HdsFqbzOqkRb (12 moves)
+Early picking solution 1 think=0.314ms movesTime=700.000ms totalTime=766.314, cmd=dsHbFzOkOznq
+solution: dsHbFzOkOznq (12 moves)
+Early picking solution 0 think=0.775ms movesTime=700.000ms totalTime=766.775, cmd=HsdFbzbFbzRz
+solution: HsdFbzbFbzRz (12 moves)
+Early picking solution 0 think=0.347ms movesTime=700.000ms totalTime=766.347, cmd=HdsFzbqOqbRk
+solution: HdsFzbqOqbRk (12 moves)
+Early picking solution 0 think=0.435ms movesTime=700.000ms totalTime=766.435, cmd=HdsFqbzOqkRb
+solution: HdsFqbzOqkRb (12 moves)
+Early picking solution 0 think=0.470ms movesTime=700.000ms totalTime=766.470, cmd=HsdFkzbObzRq
+solution: HsdFkzbObzRq (12 moves)
+Early picking solution 0 think=0.453ms movesTime=700.000ms totalTime=766.453, cmd=HdsFzbzFqkRk
+solution: HdsFzbzFqkRk (12 moves)
+Early picking solution 0 think=0.521ms movesTime=700.000ms totalTime=766.521, cmd=HsdFbzkObqRz
+solution: HsdFbzkObqRz (12 moves)
+Early picking solution 0 think=0.289ms movesTime=536.000ms totalTime=602.289, cmd=FzbxkqFx
+solution: FzbxkqFx (8 moves)
+Early picking solution 0 think=0.404ms movesTime=700.000ms totalTime=766.404, cmd=HsdFbzbFbzRz
+solution: HsdFbzbFbzRz (12 moves)
+Early picking solution 0 think=0.333ms movesTime=469.000ms totalTime=535.333, cmd=FziqiFi
+solution: FziqiFi (7 moves)
+Early picking solution 0 think=0.385ms movesTime=700.000ms totalTime=766.385, cmd=HdsFzbqOqbRk
+solution: HdsFzbqOqbRk (12 moves)
+Early picking solution 0 think=0.363ms movesTime=700.000ms totalTime=766.363, cmd=HdsFqbzOqkRb
+solution: HdsFqbzOqkRb (12 moves)
+Early picking solution 0 think=0.652ms movesTime=700.000ms totalTime=766.652, cmd=HsdFkzbObzRq
+solution: HsdFkzbObzRq (12 moves)
+Early picking solution 0 think=0.489ms movesTime=700.000ms totalTime=766.489, cmd=HdsFzbzFqkRk
+solution: HdsFzbzFqkRk (12 moves)
+Early picking solution 0 think=0.493ms movesTime=700.000ms totalTime=766.493, cmd=HsdFbzkObqRz
+solution: HsdFbzkObqRz (12 moves)
+Early picking solution 0 think=0.363ms movesTime=536.000ms totalTime=602.363, cmd=FzbxkqFx
+solution: FzbxkqFx (8 moves)
+Early picking solution 0 think=0.248ms movesTime=700.000ms totalTime=766.248, cmd=HsdFbzbFbzRz
+solution: HsdFbzbFbzRz (12 moves)
+Early picking solution 0 think=0.313ms movesTime=469.000ms totalTime=535.313, cmd=FziqiFi
+solution: FziqiFi (7 moves)
+Early picking solution 0 think=0.371ms movesTime=700.000ms totalTime=766.371, cmd=HdsFzbqOqbRk
+solution: HdsFzbqOqbRk (12 moves)
+Solution 0 time=905.000ms think=3.978ms cmd=aFcuEwGcEbzEqIkSk
+Solution 1 time=987.000ms think=5.201ms cmd=dFcvFroEbDFaqoFoFzo
+Solution 2 time=946.000ms think=31.986ms cmd=opopSzSDnGtbFzFkvM
+Solution 3 time=1121.000ms think=17.410ms cmd=KbDbGDaqRgvGbqGkEkOqb
+Solution 4 time=976.000ms think=5.267ms cmd=pEDaSorgxGrEkGzGzkEq
+Solution 5 time=1028.000ms think=3.347ms cmd=vbxgpgqaSrGbGkqEzSbE
+Solution 6 time=1162.000ms think=8.424ms cmd=rEpFvaqoDODgFkEqEzFbqK
+Solution 7 time=905.000ms think=16.205ms cmd=aFcuEwGcEbzEqIkSk
+Picking solution 0 think=32.171ms movesTime=905.000ms totalTime=1003.171, cmd=aFcuEwGcEbzEqIkSk
+solution: aFcuEwGcEbzEqIkSk (17 moves)
+Solve Time: 817ms  Think Time: 7ms  Moves Time: 811ms
+Early picking solution 0 think=0.149ms movesTime=756.000ms totalTime=822.149, cmd=AEwGcEbzEqIkSk
+solution: AEwGcEbzEqIkSk (14 moves)
+Solve Time: 693ms  Think Time: 12ms  Moves Time: 681ms
+0: 6442 frames in 216.26 seconds (29.79 FPS)
+1: 6437 frames in 216.12 seconds (29.78 FPS)
+2: 6433 frames in 215.95 seconds (29.79 FPS)
+3: 6440 frames in 215.56 seconds (29.88 FPS)
+~CapV4L2()
+~CapV4L2()
+~CapV4L2()
+~CapV4L2()
+jflatland@nkclintrade:~/Projects/DeepCube/cubedriver $ ./cubedriver cube_jay_tradefloor
+Solution 0 time=951.000ms think=47.739ms cmd=IcKvEjDgEhKzEbzbzOq
+Solution 1 time=987.000ms think=122.811ms cmd=oScFoGpkvgKvOzaOoqmzo
+Solution 2 time=1008.000ms think=4.315ms cmd=qovbErcvKoGzFDOkDbDFb
+Solution 3 time=951.000ms think=3.086ms cmd=IcKvEjDgEhKzEbzbzOq
+Solution 4 time=948.000ms think=47.207ms cmd=pEyorcSqScKcqExbGzLq
+Solution 5 time=1026.000ms think=19.004ms cmd=vopcGbKvorFDGbSzEbOzbE
+Solution 6 time=1110.000ms think=67.563ms cmd=rFkKqoSarkpSgOkGzbzkFk
+Solution 7 time=1047.000ms think=50.930ms cmd=oEcrOozKcKcwbKzKbEzSbO
+Picking solution 4 think=122.987ms movesTime=948.000ms totalTime=1136.987, cmd=pEyorcSqScKcqExbGzLq
+solution: pEyorcSqScKcqExbGzLq (20 moves)
+Solve Time: 963ms  Think Time: 13ms  Moves Time: 950ms
+Solution 0 time=969.000ms think=1.917ms cmd=EzapEzaRbvEkzEbGzKkz
+Solution 1 time=789.000ms think=47.537ms cmd=hKcvRbrKgGgzaOoFh
+Solution 2 time=870.000ms think=1.932ms cmd=KcLrcFAEDbFrbvkOpO
+Solution 3 time=1068.000ms think=17.647ms cmd=KgpKzargvcFrbzkEzFkFqG
+Solution 4 time=1128.000ms think=86.059ms cmd=paEpkOkKqkzcpbSbGqSzSkK
+Solution 5 time=1008.000ms think=16.104ms cmd=vEDbpkEDcvSpaxkFbSbOi
+Solution 6 time=1092.000ms think=36.011ms cmd=rFapFarbQBaKqbFzGkOkz
+Solution 7 time=870.000ms think=0.753ms cmd=oBopSavFpgPqkSzbFi
+Picking solution 1 think=86.178ms movesTime=789.000ms totalTime=941.178, cmd=hKcvRbrKgGgzaOoFh
+solution: hKcvRbrKgGgzaOoFh (17 moves)
+Solution 0 time=969.000ms think=1.836ms cmd=EzapEzaRbvEkzEbGzKkz
+Solution 1 time=789.000ms think=47.891ms cmd=hKcvRbrKgGgzaOoFh
+Solution 2 time=870.000ms think=1.896ms cmd=KcLrcFAEDbFrbvkOpO
+Solution 3 time=1068.000ms think=21.290ms cmd=KgpKzargvcFrbzkEzFkFqG
+Solution 4 time=1128.000ms think=86.533ms cmd=paEpkOkKqkzcpbSbGqSzSkK
+Solution 5 time=1008.000ms think=14.846ms cmd=vEDbpkEDcvSpaxkFbSbOi
+Solution 6 time=1092.000ms think=33.369ms cmd=rFapFarbQBaKqbFzGkOkz
+Solution 7 time=870.000ms think=0.743ms cmd=oBopSavFpgPqkSzbFi
+Picking solution 1 think=86.703ms movesTime=789.000ms totalTime=941.703, cmd=hKcvRbrKgGgzaOoFh
+solution: hKcvRbrKgGgzaOoFh (17 moves)
+Solution 0 time=969.000ms think=1.881ms cmd=EzapEzaRbvEkzEbGzKkz
+Solution 1 time=789.000ms think=49.014ms cmd=hKcvRbrKgGgzaOoFh
+Solution 2 time=870.000ms think=1.903ms cmd=KcLrcFAEDbFrbvkOpO
+Solution 3 time=1068.000ms think=22.877ms cmd=KgpKzargvcFrbzkEzFkFqG
+Solution 4 time=1128.000ms think=85.585ms cmd=paEpkOkKqkzcpbSbGqSzSkK
+Solution 5 time=1008.000ms think=16.122ms cmd=vEDbpkEDcvSpaxkFbSbOi
+Solution 6 time=1092.000ms think=32.647ms cmd=rFapFarbQBaKqbFzGkOkz
+Solution 7 time=870.000ms think=0.719ms cmd=oBopSavFpgPqkSzbFi
+Picking solution 1 think=85.729ms movesTime=789.000ms totalTime=940.729, cmd=hKcvRbrKgGgzaOoFh
+solution: hKcvRbrKgGgzaOoFh (17 moves)
+Solution 0 time=969.000ms think=1.821ms cmd=EzapEzaRbvEkzEbGzKkz
+Solution 1 time=789.000ms think=50.465ms cmd=hKcvRbrKgGgzaOoFh
+Solution 2 time=870.000ms think=1.870ms cmd=KcLrcFAEDbFrbvkOpO
+Solution 3 time=1068.000ms think=18.431ms cmd=KgpKzargvcFrbzkEzFkFqG
+Solution 4 time=1128.000ms think=98.272ms cmd=paEpkOkKqkzcpbSbGqSzSkK
+Solution 5 time=1008.000ms think=15.455ms cmd=vEDbpkEDcvSpaxkFbSbOi
+Solution 6 time=1092.000ms think=38.060ms cmd=rFapFarbQBaKqbFzGkOkz
+Solution 7 time=870.000ms think=0.663ms cmd=oBopSavFpgPqkSzbFi
+Picking solution 1 think=98.439ms movesTime=789.000ms totalTime=953.439, cmd=hKcvRbrKgGgzaOoFh
+solution: hKcvRbrKgGgzaOoFh (17 moves)
+Solution 0 time=969.000ms think=1.806ms cmd=EzapEzaRbvEkzEbGzKkz
+Solution 1 time=789.000ms think=44.974ms cmd=hKcvRbrKgGgzaOoFh
+Solution 2 time=870.000ms think=1.847ms cmd=KcLrcFAEDbFrbvkOpO
+Solution 3 time=1068.000ms think=19.435ms cmd=KgpKzargvcFrbzkEzFkFqG
+Solution 4 time=1128.000ms think=86.210ms cmd=paEpkOkKqkzcpbSbGqSzSkK
+Solution 5 time=1008.000ms think=17.836ms cmd=vEDbpkEDcvSpaxkFbSbOi
+Solution 6 time=1092.000ms think=34.213ms cmd=rFapFarbQBaKqbFzGkOkz
+Solution 7 time=870.000ms think=0.665ms cmd=oBopSavFpgPqkSzbFi
+Picking solution 1 think=86.343ms movesTime=789.000ms totalTime=941.343, cmd=hKcvRbrKgGgzaOoFh
+solution: hKcvRbrKgGgzaOoFh (17 moves)
+Early picking solution 1 think=44.558ms movesTime=789.000ms totalTime=899.558, cmd=hKcvRbrKgGgzaOoFh
+solution: hKcvRbrKgGgzaOoFh (17 moves)
+Solve Time: 829ms  Think Time: 8ms  Moves Time: 821ms
+Solution 0 time=912.000ms think=3.992ms cmd=KbpnwkqoqGzSqSkEbO
+Solution 1 time=972.000ms think=5.177ms cmd=arnSgFcqStbzOqFkOaF
+Solution 2 time=951.000ms think=53.916ms cmd=qEpbvjRgScFrbBOpbqk
+Solution 3 time=912.000ms think=1.455ms cmd=KbpnwkqoqGzSqSkEbO
+Solution 4 time=870.000ms think=6.560ms cmd=pIgKcvgGbqoqKbIzGx
+Solution 5 time=912.000ms think=10.994ms cmd=KbpnwkqoqGzSqSkEbO
+Solution 6 time=1008.000ms think=8.360ms cmd=rFivEaDGpgrbqFzEqEqkE
+Solution 7 time=927.000ms think=25.447ms cmd=orSopapIkSgqExSqGzkS
+Picking solution 4 think=54.113ms movesTime=870.000ms totalTime=990.113, cmd=pIgKcvgGbqoqKbIzGx
+solution: pIgKcvgGbqoqKbIzGx (18 moves)
+Solution 0 time=912.000ms think=3.980ms cmd=KbpnwkqoqGzSqSkEbO
+Solution 1 time=972.000ms think=5.901ms cmd=arnSgFcqStbzOqFkOaF
+Solution 2 time=951.000ms think=53.506ms cmd=qEpbvjRgScFrbBOpbqk
+Solution 3 time=912.000ms think=1.452ms cmd=KbpnwkqoqGzSqSkEbO
+Solution 4 time=870.000ms think=6.526ms cmd=pIgKcvgGbqoqKbIzGx
+Solution 5 time=912.000ms think=10.418ms cmd=KbpnwkqoqGzSqSkEbO
+Solution 6 time=1008.000ms think=7.114ms cmd=rFivEaDGpgrbqFzEqEqkE
+Solution 7 time=927.000ms think=25.020ms cmd=orSopapIkSgqExSqGzkS
+Picking solution 4 think=53.621ms movesTime=870.000ms totalTime=989.621, cmd=pIgKcvgGbqoqKbIzGx
+solution: pIgKcvgGbqoqKbIzGx (18 moves)
+Solution 0 time=912.000ms think=4.040ms cmd=KbpnwkqoqGzSqSkEbO
+Solution 1 time=972.000ms think=5.995ms cmd=arnSgFcqStbzOqFkOaF
+Solution 2 time=951.000ms think=54.766ms cmd=qEpbvjRgScFrbBOpbqk
+Solution 3 time=912.000ms think=1.478ms cmd=KbpnwkqoqGzSqSkEbO
+Solution 4 time=870.000ms think=6.603ms cmd=pIgKcvgGbqoqKbIzGx
+Solution 5 time=912.000ms think=10.442ms cmd=KbpnwkqoqGzSqSkEbO
+Solution 6 time=1008.000ms think=6.691ms cmd=rFivEaDGpgrbqFzEqEqkE
+Solution 7 time=927.000ms think=25.889ms cmd=orSopapIkSgqExSqGzkS
+Picking solution 4 think=54.962ms movesTime=870.000ms totalTime=990.962, cmd=pIgKcvgGbqoqKbIzGx
+solution: pIgKcvgGbqoqKbIzGx (18 moves)
+Solution 0 time=912.000ms think=3.859ms cmd=KbpnwkqoqGzSqSkEbO
+Solution 1 time=972.000ms think=5.501ms cmd=arnSgFcqStbzOqFkOaF
+Solution 2 time=951.000ms think=53.054ms cmd=qEpbvjRgScFrbBOpbqk
+Solution 3 time=912.000ms think=1.868ms cmd=KbpnwkqoqGzSqSkEbO
+Solution 4 time=870.000ms think=7.395ms cmd=pIgKcvgGbqoqKbIzGx
+Solution 5 time=912.000ms think=11.409ms cmd=KbpnwkqoqGzSqSkEbO
+Solution 6 time=1008.000ms think=7.746ms cmd=rFivEaDGpgrbqFzEqEqkE
+Solution 7 time=927.000ms think=24.521ms cmd=orSopapIkSgqExSqGzkS
+Picking solution 4 think=53.261ms movesTime=870.000ms totalTime=989.261, cmd=pIgKcvgGbqoqKbIzGx
+solution: pIgKcvgGbqoqKbIzGx (18 moves)
+Solve Time: 901ms  Think Time: 15ms  Moves Time: 885ms
+Early picking solution 1 think=0.334ms movesTime=636.000ms totalTime=702.334, cmd=dsHbOzFkOqnz
+solution: dsHbOzFkOqnz (12 moves)
+Early picking solution 0 think=0.597ms movesTime=636.000ms totalTime=702.597, cmd=HsdFkzbObzRq
+solution: HsdFkzbObzRq (12 moves)
+Early picking solution 0 think=0.250ms movesTime=636.000ms totalTime=702.250, cmd=HdsFzbzFqkRk
+solution: HdsFzbzFqkRk (12 moves)
+Early picking solution 0 think=0.607ms movesTime=636.000ms totalTime=702.607, cmd=HsdFbzkObqRz
+solution: HsdFbzkObqRz (12 moves)
+Early picking solution 0 think=0.420ms movesTime=480.000ms totalTime=546.420, cmd=FzbxkqFx
+solution: FzbxkqFx (8 moves)
+Early picking solution 0 think=1.013ms movesTime=636.000ms totalTime=703.013, cmd=HsdFbzbFbzRz
+solution: HsdFbzbFbzRz (12 moves)
+Early picking solution 0 think=0.281ms movesTime=420.000ms totalTime=486.281, cmd=FziqiFi
+solution: FziqiFi (7 moves)
+Early picking solution 0 think=0.400ms movesTime=636.000ms totalTime=702.400, cmd=HdsFzbqOqbRk
+solution: HdsFzbqOqbRk (12 moves)
+Solution 0 time=1050.000ms think=9.809ms cmd=ErGpcOqorGcSbqFqFkqOb
+Solution 1 time=951.000ms think=6.906ms cmd=EqGaHzaKpgzOkzOzoFk
+Solution 2 time=954.000ms think=9.513ms cmd=OaKdzaKzEzbzOkFktb
+Solution 3 time=987.000ms think=5.481ms cmd=HzKrGcqozGaSkzSkGqGkS
+Solution 4 time=948.000ms think=23.512ms cmd=AFauopavKpSzbOqkKzkE
+Solution 5 time=909.000ms think=5.264ms cmd=vLmEpgpKvcGkEqLqbGq
+Solution 6 time=990.000ms think=15.104ms cmd=yoSdGkqSvgEkEqObqFkG
+Solution 7 time=849.000ms think=3.691ms cmd=oGoKazKqnrMkqGzSxE
+Picking solution 7 think=23.688ms movesTime=849.000ms totalTime=938.688, cmd=oGoKazKqnrMkqGzSxE
+solution: oGoKazKqnrMkqGzSxE (18 moves)
+Solve Time: 869ms  Think Time: 13ms  Moves Time: 855ms
+Early picking solution 0 think=0.839ms movesTime=657.000ms totalTime=723.839, cmd=zFzcHzkHqkFq
+solution: zFzcHzkHqkFq (12 moves)
+Solution 0 time=888.000ms think=0.580ms cmd=rGpcEbvFazGzGbGzGkG
+Solution 1 time=912.000ms think=10.583ms cmd=bzovNaSgRczOqaOkFb
+Solution 2 time=909.000ms think=14.734ms cmd=vEgqlSvFqgpkDFDbODF
+Solution 3 time=930.000ms think=1.401ms cmd=KDEgzoDgNcHzFkzbGzk
+Solution 4 time=888.000ms think=0.580ms cmd=rGpcEbvFazGzGbGzGkG
+Solution 5 time=888.000ms think=2.051ms cmd=rGpcEbvFazGzGbGzGkG
+Solution 6 time=888.000ms think=0.295ms cmd=rGpcEbvFazGzGbGzGkG
+Solution 7 time=888.000ms think=2.981ms cmd=rGpcEbvFazGzGbGzGkG
+Picking solution 0 think=14.880ms movesTime=888.000ms totalTime=968.880, cmd=rGpcEbvFazGzGbGzGkG
+solution: rGpcEbvFazGzGbGzGkG (19 moves)
+Solution 0 time=888.000ms think=0.560ms cmd=rGpcEbvFazGzGbGzGkG
+Solution 1 time=912.000ms think=10.374ms cmd=bzovNaSgRczOqaOkFb
+Solution 2 time=909.000ms think=14.520ms cmd=vEgqlSvFqgpkDFDbODF
+Solution 3 time=930.000ms think=1.299ms cmd=KDEgzoDgNcHzFkzbGzk
+Solution 4 time=888.000ms think=0.560ms cmd=rGpcEbvFazGzGbGzGkG
+Solution 5 time=888.000ms think=2.029ms cmd=rGpcEbvFazGzGbGzGkG
+Solution 6 time=888.000ms think=0.299ms cmd=rGpcEbvFazGzGbGzGkG
+Solution 7 time=888.000ms think=2.860ms cmd=rGpcEbvFazGzGbGzGkG
+Picking solution 0 think=14.613ms movesTime=888.000ms totalTime=968.613, cmd=rGpcEbvFazGzGbGzGkG
+solution: rGpcEbvFazGzGbGzGkG (19 moves)
+Solve Time: 901ms  Think Time: 14ms  Moves Time: 887ms
+Solution 0 time=1011.000ms think=8.388ms cmd=pcGzgrFbGaBFzEzkqEqF
+Solution 1 time=870.000ms think=21.904ms cmd=FeKpcGqgEDoqmFcOax
+Solution 2 time=969.000ms think=17.394ms cmd=pOcvEcxEdGbpkqkFbvbv
+Solution 3 time=969.000ms think=4.094ms cmd=JcvMczEravkqEbSzFkSz
+Solution 4 time=1011.000ms think=1.042ms cmd=pcGzgrFbGaBFzEzkqEqF
+Solution 5 time=1029.000ms think=1.406ms cmd=vEvcSkDnFDaOkKzGbzkFb
+Solution 6 time=1011.000ms think=11.282ms cmd=pcGzgrFbGaBFzEzkqEqF
+Solution 7 time=1008.000ms think=60.271ms cmd=lRqoEqKpEvcEzKbzkOkqE
+Picking solution 1 think=60.779ms movesTime=870.000ms totalTime=996.779, cmd=FeKpcGqgEDoqmFcOax
+solution: FeKpcGqgEDoqmFcOax (18 moves)
+Solve Time: 885ms  Think Time: 6ms  Moves Time: 879ms
+0: 12349 frames in 415.13 seconds (29.75 FPS)
+1: 12340 frames in 414.97 seconds (29.74 FPS)
+2: 12340 frames in 414.78 seconds (29.75 FPS)
+3: 12364 frames in 414.41 seconds (29.84 FPS)
+~CapV4L2()
+~CapV4L2()
+~CapV4L2()
+~CapV4L2()
+jflatland@nkclintrade:~/Projects/DeepCube/cubedriver $ ./cubedriver cube_jay_tradefloor
+Early picking solution 0 think=0.639ms movesTime=636.000ms totalTime=702.639, cmd=HdsFqbzOqkRb
+solution: HdsFqbzOqkRb (12 moves)
+Early picking solution 0 think=0.227ms movesTime=636.000ms totalTime=702.227, cmd=HsdFkzbObzRq
+solution: HsdFkzbObzRq (12 moves)
+Early picking solution 1 think=0.355ms movesTime=636.000ms totalTime=702.355, cmd=dsHbFzOkOznq
+solution: dsHbFzOkOznq (12 moves)
+Early picking solution 0 think=1.402ms movesTime=636.000ms totalTime=703.402, cmd=HsdFbzkObqRz
+solution: HsdFbzkObqRz (12 moves)
+Early picking solution 0 think=0.452ms movesTime=480.000ms totalTime=546.452, cmd=FzbxkqFx
+solution: FzbxkqFx (8 moves)
+Early picking solution 0 think=0.632ms movesTime=636.000ms totalTime=702.632, cmd=HsdFbzbFbzRz
+solution: HsdFbzbFbzRz (12 moves)
+Early picking solution 0 think=0.368ms movesTime=537.000ms totalTime=603.368, cmd=sdFbzbFbzR
+solution: sdFbzbFbzR (10 moves)
+Early picking solution 0 think=0.353ms movesTime=420.000ms totalTime=486.353, cmd=FziqiFi
+solution: FziqiFi (7 moves)
+Early picking solution 0 think=0.468ms movesTime=636.000ms totalTime=702.468, cmd=HdsFzbqOqbRk
+solution: HdsFzbqOqbRk (12 moves)
+Early picking solution 0 think=0.354ms movesTime=420.000ms totalTime=486.354, cmd=FziqiFi
+solution: FziqiFi (7 moves)
+cam 3 exposure set to 66
+cam 3 exposure set to 100
+cam 3 exposure set to 133
+cam 3 exposure set to 166
+cam 3 exposure set to 200
+cam 3 exposure set to 233
+cam 3 exposure set to 266
+Early picking solution 0 think=0.403ms movesTime=636.000ms totalTime=702.403, cmd=HdsFqbzOqkRb
+solution: HdsFqbzOqkRb (12 moves)
+Early picking solution 0 think=1.556ms movesTime=636.000ms totalTime=703.556, cmd=HsdFkzbObzRq
+solution: HsdFkzbObzRq (12 moves)
+Early picking solution 0 think=0.214ms movesTime=636.000ms totalTime=702.214, cmd=HdsFzbzFqkRk
+solution: HdsFzbzFqkRk (12 moves)
+Early picking solution 0 think=0.489ms movesTime=636.000ms totalTime=702.489, cmd=HsdFbzkObqRz
+solution: HsdFbzkObqRz (12 moves)
+Early picking solution 0 think=0.379ms movesTime=480.000ms totalTime=546.379, cmd=FzbxkqFx
+solution: FzbxkqFx (8 moves)
+Early picking solution 1 think=0.311ms movesTime=636.000ms totalTime=702.311, cmd=dHsbqOzkqFnO
+solution: dHsbqOzkqFnO (12 moves)
+Early picking solution 0 think=0.312ms movesTime=420.000ms totalTime=486.312, cmd=FziqiFi
+solution: FziqiFi (7 moves)
+Early picking solution 0 think=0.270ms movesTime=636.000ms totalTime=702.270, cmd=HdsFzbqOqbRk
+solution: HdsFzbqOqbRk (12 moves)
+Solution 0 time=933.000ms think=5.272ms cmd=EynODoFwFkqbqGbKqK
+Solution 1 time=852.000ms think=4.475ms cmd=bqKgpEwaKBgqoOizO
+Solution 2 time=870.000ms think=2.451ms cmd=GaSnIDKorkqkrkpkzb
+Solution 3 time=948.000ms think=9.140ms cmd=KvavjKcGlpbqEqKkSbqO
+Solution 4 time=987.000ms think=5.532ms cmd=pFropgGnvSrbzGbFbqKzE
+Solution 5 time=1068.000ms think=3.450ms cmd=vEapFkvgrkrazGkGqkzbKq
+Solution 6 time=966.000ms think=1.585ms cmd=rGDGpoGcDFoKzkzKzbSkG
+Solution 7 time=1008.000ms think=1.195ms cmd=ovazEkOpcEgSqKqkEqKkq
+Picking solution 1 think=9.324ms movesTime=852.000ms totalTime=927.324, cmd=bqKgpEwaKBgqoOizO
+solution: bqKgpEwaKBgqoOizO (17 moves)
+Solution 0 time=933.000ms think=5.410ms cmd=EynODoFwFkqbqGbKqK
+Solution 1 time=852.000ms think=4.436ms cmd=bqKgpEwaKBgqoOizO
+Solution 2 time=870.000ms think=2.372ms cmd=GaSnIDKorkqkrkpkzb
+Solution 3 time=948.000ms think=9.475ms cmd=KvavjKcGlpbqEqKkSbqO
+Solution 4 time=987.000ms think=4.287ms cmd=pFropgGnvSrbzGbFbqKzE
+Solution 5 time=1068.000ms think=4.370ms cmd=vEapFkvgrkrazGkGqkzbKq
+Solution 6 time=966.000ms think=1.493ms cmd=rGDGpoGcDFoKzkzKzbSkG
+Solution 7 time=1008.000ms think=1.153ms cmd=ovazEkOpcEgSqKqkEqKkq
+Picking solution 1 think=9.676ms movesTime=852.000ms totalTime=927.676, cmd=bqKgpEwaKBgqoOizO
+solution: bqKgpEwaKBgqoOizO (17 moves)
+Solution 0 time=933.000ms think=5.536ms cmd=EynODoFwFkqbqGbKqK
+Solution 1 time=852.000ms think=4.308ms cmd=bqKgpEwaKBgqoOizO
+Solution 2 time=870.000ms think=2.524ms cmd=GaSnIDKorkqkrkpkzb
+Solution 3 time=948.000ms think=8.818ms cmd=KvavjKcGlpbqEqKkSbqO
+Solution 4 time=987.000ms think=4.462ms cmd=pFropgGnvSrbzGbFbqKzE
+Solution 5 time=1068.000ms think=4.522ms cmd=vEapFkvgrkrazGkGqkzbKq
+Solution 6 time=966.000ms think=1.626ms cmd=rGDGpoGcDFoKzkzKzbSkG
+Solution 7 time=1008.000ms think=1.307ms cmd=ovazEkOpcEgSqKqkEqKkq
+Picking solution 1 think=9.711ms movesTime=852.000ms totalTime=927.711, cmd=bqKgpEwaKBgqoOizO
+solution: bqKgpEwaKBgqoOizO (17 moves)
+Solution 0 time=933.000ms think=5.272ms cmd=EynODoFwFkqbqGbKqK
+Solution 1 time=852.000ms think=4.102ms cmd=bqKgpEwaKBgqoOizO
+Solution 2 time=870.000ms think=2.330ms cmd=GaSnIDKorkqkrkpkzb
+Solution 3 time=948.000ms think=8.795ms cmd=KvavjKcGlpbqEqKkSbqO
+Solution 4 time=987.000ms think=4.507ms cmd=pFropgGnvSrbzGbFbqKzE
+Solution 5 time=1068.000ms think=4.304ms cmd=vEapFkvgrkrazGkGqkzbKq
+Solution 6 time=966.000ms think=1.450ms cmd=rGDGpoGcDFoKzkzKzbSkG
+Solution 7 time=1008.000ms think=1.155ms cmd=ovazEkOpcEgSqKqkEqKkq
+Picking solution 1 think=8.978ms movesTime=852.000ms totalTime=926.978, cmd=bqKgpEwaKBgqoOizO
+solution: bqKgpEwaKBgqoOizO (17 moves)
+Solution 0 time=933.000ms think=5.515ms cmd=EynODoFwFkqbqGbKqK
+Solution 1 time=852.000ms think=4.372ms cmd=bqKgpEwaKBgqoOizO
+Solution 2 time=870.000ms think=2.509ms cmd=GaSnIDKorkqkrkpkzb
+Solution 3 time=948.000ms think=9.158ms cmd=KvavjKcGlpbqEqKkSbqO
+Solution 4 time=987.000ms think=4.734ms cmd=pFropgGnvSrbzGbFbqKzE
+Solution 5 time=1068.000ms think=4.506ms cmd=vEapFkvgrkrazGkGqkzbKq
+Solution 6 time=966.000ms think=1.607ms cmd=rGDGpoGcDFoKzkzKzbSkG
+Solution 7 time=1008.000ms think=0.815ms cmd=ovazEkOpcEgSqKqkEqKkq
+Picking solution 1 think=9.351ms movesTime=852.000ms totalTime=927.351, cmd=bqKgpEwaKBgqoOizO
+solution: bqKgpEwaKBgqoOizO (17 moves)
+Solve Time: 995ms  Think Time: 127ms  Moves Time: 868ms
+Early picking solution 0 think=0.809ms movesTime=411.000ms totalTime=477.809, cmd=CSDcKporkS
+solution: CSDcKporkS (10 moves)
+Solution 0 time=990.000ms think=5.485ms cmd=oFoqEDOrgvKbzOzGkqKz
+Solution 1 time=948.000ms think=1.576ms cmd=avbKkDaEgEozaOzgFozO
+Solution 2 time=951.000ms think=18.043ms cmd=QkDgDKrFvaqOzFpODFk
+Solution 3 time=951.000ms think=11.102ms cmd=KvlFzgKcrFjGqEqOzLz
+Solution 4 time=969.000ms think=7.030ms cmd=pEbDSgErSgFBFbEiOkSz
+Solution 5 time=987.000ms think=15.803ms cmd=vGrGrhpOcSrEzGbSkOqkG
+Solution 6 time=1032.000ms think=13.714ms cmd=uFqKgKkzgFpbqFqEkQzK
+Solution 7 time=990.000ms think=0.134ms cmd=oFoqEDOrgvKbzOzGkqKz
+Picking solution 1 think=18.196ms movesTime=948.000ms totalTime=1032.196, cmd=avbKkDaEgEozaOzgFozO
+solution: avbKkDaEgEozaOzgFozO (20 moves)
+Solution 0 time=1032.000ms think=69.559ms cmd=GzjSvkpSwcEkqObqEzbq
+Solution 1 time=990.000ms think=26.188ms cmd=GavOzGrKqbSoqaqOgMqb
+Solution 2 time=990.000ms think=35.979ms cmd=pbqFzopSAGjOrFDObvkD
+Solution 3 time=948.000ms think=11.194ms cmd=KwGoDaqgOrgHbEkFqSqE
+Solution 4 time=948.000ms think=19.715ms cmd=paDKrQpbHgEzGkzGqkGb
+Solution 5 time=1026.000ms think=30.046ms cmd=vEDFDarEDbKDaKkqGzGkzb
+Solution 6 time=1029.000ms think=6.866ms cmd=rGqEcybvkEgKkKqSzbSqb
+Solution 7 time=990.000ms think=18.248ms cmd=oEzoEcODkCSBkEqFxbKz
+Picking solution 3 think=69.699ms movesTime=948.000ms totalTime=1083.699, cmd=KwGoDaqgOrgHbEkFqSqE
+solution: KwGoDaqgOrgHbEkFqSqE (20 moves)
+Early picking solution 0 think=0.071ms movesTime=357.000ms totalTime=423.071, cmd=EkFqSqE
+solution: EkFqSqE (7 moves)
+Solve Time: 975ms  Think Time: 12ms  Moves Time: 964ms
+Early picking solution 7 think=18.535ms movesTime=810.000ms totalTime=894.535, cmd=oDcvQgDHybEqKbPkx
+solution: oDcvQgDHybEqKbPkx (17 moves)
+Solution 0 time=951.000ms think=2.056ms cmd=KoSbpFkqotkKqkGbGbK
+Solution 1 time=852.000ms think=4.851ms cmd=rLzkGaRpoOzazMaOq
+Solution 2 time=1011.000ms think=16.371ms cmd=FqFovavKugOpbzkzOvkO
+Solution 3 time=951.000ms think=0.844ms cmd=KoSbpFkqotkKqkGbGbK
+Solution 4 time=951.000ms think=17.174ms cmd=pmKrGmLzcObzGqGkEkE
+Solution 5 time=951.000ms think=9.281ms cmd=KoSbpFkqotkKqkGbGbK
+Solution 6 time=948.000ms think=14.834ms cmd=ycSDoGkvaEczbKzGzKbN
+Solution 7 time=1110.000ms think=14.043ms cmd=oGkGzbpFDkEgzSbzGzSqFk
+Picking solution 1 think=17.329ms movesTime=852.000ms totalTime=935.329, cmd=rLzkGaRpoOzazMaOq
+solution: rLzkGaRpoOzazMaOq (17 moves)
+Solution 0 time=870.000ms think=4.583ms cmd=EzcOcvNrgpJqbGxkKq
+Solution 1 time=951.000ms think=15.344ms cmd=SzFcGDFvRDFqkOgqOcx
+Solution 2 time=990.000ms think=2.482ms cmd=FgvgFaSkEaFpOqOvbDkO
+Solution 3 time=969.000ms think=20.700ms cmd=KipPkDScFvkqkKqGzEkK
+Solution 4 time=906.000ms think=15.899ms cmd=pavcGpSoSpGvKqFxbSzF
+Solution 5 time=987.000ms think=34.806ms cmd=vEaOzODGrgrKgzEqLxGzG
+Solution 6 time=891.000ms think=29.086ms cmd=rkElzaOvevRkKziSqb
+Solution 7 time=1068.000ms think=21.827ms cmd=opGaOkDOovGcSkFzkKzGkz
+Picking solution 0 think=34.944ms movesTime=870.000ms totalTime=970.944, cmd=EzcOcvNrgpJqbGxkKq
+solution: EzcOcvNrgpJqbGxkKq (18 moves)
+Solution 0 time=930.000ms think=1.767ms cmd=DbvFDcrOvgEqEkOqkEx
+Solution 1 time=1011.000ms think=24.056ms cmd=FzScKrLvoSkzFbOaFqFa
+Solution 2 time=891.000ms think=14.351ms cmd=JDbNaqgvLvOvkFrFvO
+Solution 3 time=1014.000ms think=10.626ms cmd=ObwoFjvOrkEbqFzEbzE
+Solution 4 time=951.000ms think=1.841ms cmd=CGDkraFgvbzGkFbqbqK
+Solution 5 time=930.000ms think=2.655ms cmd=DbvFDcrOvgEqEkOqkEx
+Solution 6 time=951.000ms think=0.335ms cmd=CGDkraFgvbzGkFbqbqK
+Solution 7 time=852.000ms think=0.396ms cmd=nzoFvgzFrEqNzbExG
+Picking solution 7 think=24.212ms movesTime=852.000ms totalTime=942.212, cmd=nzoFvgzFrEqNzbExG
+solution: nzoFvgzFrEqNzbExG (17 moves)
+Solve Time: 884ms  Think Time: 13ms  Moves Time: 871ms
+Solution 0 time=930.000ms think=21.789ms cmd=HphzGpgFapiKqEqkFkK
+Solution 1 time=1068.000ms think=31.802ms cmd=aDbpOrGkKDcEzOqaFcFbOc
+Solution 2 time=951.000ms think=57.264ms cmd=qhRcrOoDcKbukqbFpbO
+Solution 3 time=930.000ms think=1.976ms cmd=HphzGpgFapiKqEqkFkK
+Solution 4 time=927.000ms think=52.786ms cmd=pFoSkSaGopfviSkSiKzF
+Solution 5 time=1089.000ms think=43.972ms cmd=vEkGbpFpGkrlqSkEqKzFqF
+Solution 6 time=930.000ms think=4.047ms cmd=rGDdSvObzKtGiqKbFkE
+Solution 7 time=1047.000ms think=21.041ms cmd=oEgrFDoGasGDkGkOzbqKqO
+Picking solution 4 think=57.423ms movesTime=927.000ms totalTime=1050.423, cmd=pFoSkSaGopfviSkSiKzF
+solution: pFoSkSaGopfviSkSiKzF (20 moves)
+Solution 0 time=870.000ms think=3.153ms cmd=AKrkvkrScqkEzGkRqb
+Solution 1 time=1011.000ms think=4.016ms cmd=apbGqcvFqoKqcFqcOzmq
+Solution 2 time=1011.000ms think=4.862ms cmd=qkGbpbDcSkGvkCkOvFbF
+Solution 3 time=1008.000ms think=19.494ms cmd=KaSrFcEDKkGaGqbqbFqEk
+Solution 4 time=870.000ms think=1.160ms cmd=AKrkvkrScqkEzGkRqb
+Solution 5 time=870.000ms think=2.773ms cmd=AKrkvkrScqkEzGkRqb
+Solution 6 time=870.000ms think=4.858ms cmd=AKrkvkrScqkEzGkRqb
+Solution 7 time=1011.000ms think=1.733ms cmd=lqEbOcOrovKkKkzKqbOb
+Picking solution 0 think=19.629ms movesTime=870.000ms totalTime=955.629, cmd=AKrkvkrScqkEzGkRqb
+solution: AKrkvkrScqkEzGkRqb (18 moves)
+Solution 0 time=888.000ms think=7.996ms cmd=RaKuSbEopkGbGkKbEkq
+Solution 1 time=891.000ms think=12.886ms cmd=opcpbEbEtEoxOqczbz
+Solution 2 time=972.000ms think=14.843ms cmd=aFoGmrFcGazkFpOqFtF
+Solution 3 time=930.000ms think=2.784ms cmd=KrEDSgOygtEkGbqOzEb
+Solution 4 time=1128.000ms think=81.884ms cmd=pGrcvbpGgzOavEqkEzFkqOk
+Solution 5 time=891.000ms think=4.988ms cmd=vFvSvovcpNjObzIqKx
+Solution 6 time=912.000ms think=13.409ms cmd=CaOcKfOCoLkEzkqkOq
+Solution 7 time=969.000ms think=12.840ms cmd=oGkvSaKrKkvgQzkOzbSk
+Picking solution 0 think=82.016ms movesTime=888.000ms totalTime=1036.016, cmd=RaKuSbEopkGbGkKbEkq
+solution: RaKuSbEopkGbGkKbEkq (19 moves)
+Solve Time: 908ms  Think Time: 6ms  Moves Time: 902ms
+0: 11230 frames in 377.09 seconds (29.78 FPS)
+1: 11225 frames in 376.93 seconds (29.78 FPS)
+2: 11219 frames in 376.77 seconds (29.78 FPS)
+3: 11240 frames in 376.38 seconds (29.86 FPS)
+~CapV4L2()
+~CapV4L2()
+~CapV4L2()
+~CapV4L2()

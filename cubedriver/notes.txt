@@ -1,0 +1,1699 @@
+ThreadSolver2 - nkclintrade, goal 887ms, target 887ms, speed 5 (more), 8 threads, 0,LR90,FB90,D1,L1,R1,L3,B3,B1,F1,D3,U3,U1,R3,F3,F2,D2,R2,L2,B2,U2
+Runs: 1000
+Fails: 0
+avgSolveTime:    40.488ms
+avgMovesTime:   797.816ms
+avgTotalTime:   838.304ms
+WithCamTime:    898.304ms
+movesTimeHistogram:
+600,32,3%
+700,428,43%
+800,534,53%
+900,6,1%
+underGoalHistogram: 887ms
+0,355,36%
+1000,645,64%
+solutionIdxHistogram:
+0,208,21%
+1,211,21%
+2,216,22%
+3,97,10%
+4,76,8%
+5,50,5%
+6,69,7%
+7,73,7%
+
+
+ThreadSolver2 - nkclintrade, goal 887ms, target 887ms, speed 5, 8 threads, 0,LR90,FB90,D1,L1,R1,L3,B3,B1,F1,D3,U3,U1,R3,F3,F2,D2,R2,L2,B2,U2
+Runs: 1000
+Fails: 0
+avgSolveTime:    40.928ms
+avgMovesTime:   823.402ms
+avgTotalTime:   864.330ms
+WithCamTime:    924.330ms
+movesTimeHistogram:
+600,18,2%
+700,292,29%
+800,659,66%
+900,31,3%
+underGoalHistogram: 887ms
+0,201,20%
+1000,799,80%
+solutionIdxHistogram:
+0,208,21%
+1,211,21%
+2,216,22%
+3,97,10%
+4,76,8%
+5,50,5%
+6,69,7%
+7,73,7%
+
+ThreadSolver2 - nkclintrade, goal 887ms, target 887ms, speed 4, 8 threads, 0,LR90,FB90,D1,L1,R1,L3,B3,B1,F1,D3,U3,U1,R3,F3,F2,D2,R2,L2,B2,U2
+Runs: 1000
+Fails: 0
+avgSolveTime:    40.722ms
+avgMovesTime:   859.545ms
+avgTotalTime:   900.267ms
+WithCamTime:    960.267ms
+movesTimeHistogram:
+600,5,0%
+700,120,12%
+800,656,66%
+900,219,22%
+underGoalHistogram: 887ms
+0,129,13%
+1000,871,87%
+solutionIdxHistogram:
+0,211,21%
+1,215,22%
+2,212,21%
+3,97,10%
+4,72,7%
+5,51,5%
+6,69,7%
+7,73,7%
+
+ThreadSolver2 - nkclintrade, goal 887ms, target 850ms, speed 4, 8 threads, 0,LR90,FB90,D1,L1,R1,L3,B3,B1,F1,D3,U3,U1,R3,F3,F2,D2,R2,L2,B2,U2
+Runs: 1000
+Fails: 0
+avgSolveTime:    40.572ms
+avgMovesTime:   859.194ms
+avgTotalTime:   899.766ms
+WithCamTime:    959.766ms
+movesTimeHistogram:
+600,5,0%
+700,123,12%
+800,653,65%
+900,219,22%
+underGoalHistogram: 887ms
+0,92,9%
+1000,908,91%
+solutionIdxHistogram:
+0,208,21%
+1,211,21%
+2,214,21%
+3,98,10%
+4,77,8%
+5,50,5%
+6,69,7%
+7,73,7%
+
+ThreadSolver2 - nkclintrade, goal 887ms, target 850ms, speed 4, 4 threads, 0,LR90,FB90,D1,L1,R1,L3,B3,B1,F1,D3,U3,U1,R3,F3,F2,D2,R2,L2,B2,U2
+Runs: 1000
+Fails: 0
+avgSolveTime:    29.807ms
+avgMovesTime:   873.162ms
+avgTotalTime:   902.969ms
+WithCamTime:    962.969ms
+movesTimeHistogram:
+600,3,0%
+700,98,10%
+800,564,56%
+900,328,33%
+1000,7,1%
+underGoalHistogram: 887ms
+0,97,10%
+1000,903,90%
+solutionIdxHistogram:
+0,294,29%
+1,285,28%
+2,299,30%
+3,122,12%
+
+
+ThreadSolver2 - nkclintrade, goal 887ms, target 800ms, speed 4, 4 threads, 0,LR90,FB90,D1,L1,R1,L3,B3,B1,F1,D3,U3,U1,R3,F3,F2,D2,R2,L2,B2,U2
+Runs: 1000
+Fails: 0
+avgSolveTime:    29.822ms
+avgMovesTime:   873.120ms
+avgTotalTime:   902.942ms
+WithCamTime:    962.942ms
+movesTimeHistogram:
+600,3,0%
+700,98,10%
+800,564,56%
+900,328,33%
+1000,7,1%
+underGoalHistogram: 887ms
+0,99,10%
+1000,901,90%
+solutionIdxHistogram:
+0,293,29%
+1,285,28%
+2,300,30%
+3,122,12%
+
+
+ThreadSolver2 - nkclintrade, goal 887ms, target 100ms, speed 4, 4 threads, 0,LR90,FB90,D1,L1,R1,L3,B3,B1,F1,D3,U3,U1,R3,F3,F2,D2,R2,L2,B2,U2
+Runs: 1000
+Fails: 0
+avgSolveTime:    29.509ms
+avgMovesTime:   873.120ms
+avgTotalTime:   902.629ms
+WithCamTime:    962.629ms
+movesTimeHistogram:
+600,3,0%
+700,98,10%
+800,564,56%
+900,328,33%
+1000,7,1%
+underGoalHistogram: 887ms
+0,99,10%
+1000,901,90%
+solutionIdxHistogram:
+0,293,29%
+1,285,28%
+2,300,30%
+3,122,12%
+
+
+ThreadSolver2 - nkclintrade, goal 887ms, target 100ms, speed 4, 8 threads, 0,LR90,FB90,D1,L1,R1,L3,B3,B1,F1,D3,U3,U1,R3,F3,F2,D2,R2,L2,B2,U2
+Runs: 1000
+Fails: 0
+avgSolveTime:    40.834ms
+avgMovesTime:   859.152ms
+avgTotalTime:   899.986ms
+WithCamTime:    959.986ms
+movesTimeHistogram:
+600,5,0%
+700,123,12%
+800,653,65%
+900,219,22%
+underGoalHistogram: 887ms
+0,92,9%
+1000,908,91%
+solutionIdxHistogram:
+0,208,21%
+1,211,21%
+2,215,22%
+3,98,10%
+4,76,8%
+5,50,5%
+6,69,7%
+7,73,7%
+
+
+
+ThreadSolver2 - nkclintrade, target 850ms, speed 4, 3 threads, 0,LR90,FB90
+Runs: 1000
+Fails: 0
+avgSolveTime:    26.048ms
+avgMovesTime:   879.837ms
+avgTotalTime:   905.885ms
+WithCamTime:    965.885ms
+movesTimeHistogram:
+600,3,0%
+700,86,9%
+800,517,52%
+900,382,38%
+1000,12,1%
+underGoalHistogram: 887ms
+0,108,11%
+1000,892,89%
+solutionIdxHistogram:
+0,340,34%
+1,329,33%
+2,331,33%
+
+ThreadSolver2 - nkclintrade, target 850ms, speed 4, 4 threads, 0,LR90,FB90,D1
+Runs: 1000
+Fails: 0
+avgSolveTime:    29.391ms
+avgMovesTime:   873.489ms
+avgTotalTime:   902.880ms
+WithCamTime:    962.880ms
+movesTimeHistogram:
+600,3,0%
+700,94,9%
+800,568,57%
+900,328,33%
+1000,7,1%
+underGoalHistogram: 887ms
+0,117,12%
+1000,883,88%
+solutionIdxHistogram:
+0,300,30%
+1,285,28%
+2,295,30%
+3,120,12%
+
+ThreadSolver2 - nkclintrade, target 850ms, speed 4, 8 threads, 0,LR90,FB90,D1,L1,R1,L3,B3
+Runs: 1000
+Fails: 0
+avgSolveTime:    40.872ms
+avgMovesTime:   859.923ms
+avgTotalTime:   900.795ms
+WithCamTime:    960.795ms
+movesTimeHistogram:
+600,5,0%
+700,114,11%
+800,662,66%
+900,219,22%
+underGoalHistogram: 887ms
+0,118,12%
+1000,882,88%
+solutionIdxHistogram:
+0,216,22%
+1,215,22%
+2,212,21%
+3,95,10%
+4,73,7%
+5,50,5%
+6,67,7%
+7,72,7%
+
+ThreadSolver2 - nkclintrade, target 980ms, 8 threads, 0,LR90,FB90,D1,L1,R1,L3,B3
+Runs: 1000
+Fails: 0
+avgSolveTime:    40.933ms
+avgMovesTime:   893.387ms
+avgTotalTime:   934.320ms
+WithCamTime:    994.320ms
+movesTimeHistogram:
+700,48,5%
+800,438,44%
+900,507,51%
+1000,7,1%
+under1SecHistogram:
+0,492,49%
+1000,508,51%
+solutionIdxHistogram:
+0,239,24%
+1,220,22%
+2,212,21%
+3,85,8%
+4,72,7%
+5,48,5%
+6,57,6%
+7,67,7%
+
+
+ThreadSolver2 - nkclintrade, 8 threads, 0,LR90,FB90,D1,L1,R1,L3,B3
+Runs: 1000
+Fails: 0
+avgSolveTime:    40.752ms
+avgMovesTime:   897.303ms
+avgTotalTime:   938.055ms
+WithCamTime:    998.055ms
+movesTimeHistogram:
+700,36,4%
+800,409,41%
+900,548,55%
+1000,7,1%
+under1SecHistogram:
+0,507,51%
+1000,493,49%
+solutionIdxHistogram:
+0,267,27%
+1,233,23%
+2,193,19%
+3,83,8%
+4,64,6%
+5,48,5%
+6,49,5%
+7,63,6%
+
+ThreadSolver2 - nkclintrade, 4 threads, 0,LR90,FB90,D1
+Runs: 1000
+Fails: 0
+avgSolveTime:    29.523ms
+avgMovesTime:   910.362ms
+avgTotalTime:   939.885ms
+WithCamTime:    999.885ms
+movesTimeHistogram:
+700,35,4%
+800,332,33%
+900,590,59%
+1000,43,4%
+under1SecHistogram:
+0,483,48%
+1000,517,52%
+solutionIdxHistogram:
+0,353,35%
+1,287,29%
+2,258,26%
+3,102,10%
+
+
+ThreadSolver2 - nkclintrade, 9 threads, 0,LR90,FB90,D1,L1,R1,L3,B3,B1
+Runs: 1000
+Fails: 0
+avgSolveTime:    43.563ms
+avgMovesTime:   894.752ms
+avgTotalTime:   938.315ms
+WithCamTime:    998.315ms
+movesTimeHistogram:
+700,39,4%
+800,426,43%
+900,531,53%
+1000,4,0%
+under1SecHistogram:
+0,504,50%
+1000,496,50%
+solutionIdxHistogram:
+0,261,26%
+1,221,22%
+2,184,18%
+3,75,8%
+4,65,6%
+5,44,4%
+6,48,5%
+7,59,6%
+8,43,4%
+
+ThreadSolver2 - nkclintrade, 11 threads, 0,LR90,FB90,D1,L1,R1,L3,B3,B1,F1,D3
+Runs: 1000
+Fails: 0
+avgSolveTime:    48.625ms
+avgMovesTime:   891.979ms
+avgTotalTime:   940.604ms
+WithCamTime:   1000.604ms
+movesTimeHistogram:
+700,41,4%
+800,454,45%
+900,503,50%
+1000,2,0%
+under1SecHistogram:
+0,503,50%
+1000,497,50%
+solutionIdxHistogram:
+0,254,25%
+1,208,21%
+2,170,17%
+3,68,7%
+4,56,6%
+5,43,4%
+6,43,4%
+7,54,5%
+8,39,4%
+9,31,3%
+10,34,3%
+
+
+ThreadSolver2 - nkclintrade, 21 threads, 0,LR90,FB90,D1,L1,R1,L3,B3,B1,F1,D3,U3,U1,R3,F3,F2,D2,R2,L2,B2,U2
+Runs: 1000
+Fails: 0
+avgSolveTime:    72.310ms
+avgMovesTime:   883.272ms
+avgTotalTime:   955.582ms
+WithCamTime:   1015.582ms
+movesTimeHistogram:
+600,1,0%
+700,53,5%
+800,525,52%
+900,420,42%
+1000,1,0%
+under1SecHistogram:
+0,435,44%
+1000,565,56%
+solutionIdxHistogram:
+0,215,22%
+1,165,16%
+2,161,16%
+3,63,6%
+4,51,5%
+5,30,3%
+6,40,4%
+7,45,4%
+8,35,4%
+9,29,3%
+10,28,3%
+11,19,2%
+12,15,2%
+13,16,2%
+14,21,2%
+15,13,1%
+16,19,2%
+17,6,1%
+18,17,2%
+19,10,1%
+20,2,0%
+
+
+
+ThreadSolver2 - nkclintrade, 11 threads, 0,LR_90,FB_90,D1,R1,L1,D3,B3,B1,U1,L3,
+Runs: 1000
+Fails: 0
+avgSolveTime:    48.477ms
+avgMovesTime:   892.187ms
+avgTotalTime:   940.664ms
+WithCamTime:   1000.664ms
+movesTimeHistogram:
+600,1,0%
+700,41,4%
+800,452,45%
+900,504,50%
+1000,2,0%
+under1SecHistogram:
+0,512,51%
+1000,488,49%
+
+
+ThreadSolver2 - nkclintrade, 11 threads, LR, FB, others
+Runs: 1000
+Fails: 0
+avgSolveTime:    47.994ms
+avgMovesTime:   892.265ms
+avgTotalTime:   940.259ms
+WithCamTime:   1000.259ms
+movesTimeHistogram:
+700,43,4%
+800,450,45%
+900,505,50%
+1000,2,0%
+under1SecHistogram:
+0,511,51%
+1000,489,49%
+solutionIdxHistogram:
+0,248,25%
+1,211,21%
+2,179,18%
+3,68,7%
+4,48,5%
+5,56,6%
+6,40,4%
+7,54,5%
+8,40,4%
+9,16,2%
+10,40,4%
+
+
+ThreadSolver2 - nkclintrade, 12 threads, D1,R1,L1,D3,B3,B1,U1,L3,F1,F3,U3
+Runs: 1000
+Fails: 0
+avgSolveTime:    48.648ms
+avgMovesTime:   902.721ms
+avgTotalTime:   951.369ms
+WithCamTime:   1011.369ms
+movesTimeHistogram:
+600,1,0%
+700,34,3%
+800,369,37%
+900,578,58%
+1000,18,2%
+under1SecHistogram:
+0,426,43%
+1000,574,57%
+
+
+ThreadSolver2 - nkclintrade, 10 threads, D1,R1,L1,D3,B3,B1,U1,L3,F1
+Runs: 1000
+Fails: 0
+avgSolveTime:    44.375ms
+avgMovesTime:   905.439ms
+avgTotalTime:   949.814ms
+WithCamTime:   1009.814ms
+movesTimeHistogram:
+600,1,0%
+700,33,3%
+800,354,35%
+900,588,59%
+1000,24,2%
+under1SecHistogram:
+0,434,43%
+1000,566,57%
+
+ThreadSolver2 - nkclintrade, 8 threads, D1,R1,L1,D3,B3,B1,U1
+Runs: 1000
+Fails: 0
+avgSolveTime:    39.335ms
+avgMovesTime:   912.175ms
+avgTotalTime:   951.510ms
+WithCamTime:   1011.510ms
+movesTimeHistogram:
+600,1,0%
+700,31,3%
+800,315,32%
+900,605,60%
+1000,48,5%
+under1SecHistogram:
+0,427,43%
+1000,573,57%
+
+ThreadSolver2 - nkclintrade, 11 threads, D1,R1,L1,D3,B3,B1,U1,L3,F1,F3
+Runs: 1000
+Fails: 0
+avgSolveTime:    47.129ms
+avgMovesTime:   903.401ms
+avgTotalTime:   950.530ms
+WithCamTime:   1010.530ms
+movesTimeHistogram:
+600,1,0%
+700,34,3%
+800,365,36%
+900,581,58%
+1000,19,2%
+under1SecHistogram:
+0,438,44%
+1000,562,56%
+
+
+ThreadSolver2 - nkclintrade, 19 threads, D1,R1,L1,D3,B3,B1,U1,L3,F1,F3,U3,R3,L2,D2,R2,F2,B2,U2
+Runs: 1000
+Fails: 0
+avgSolveTime:    65.871ms
+avgMovesTime:   894.527ms
+avgTotalTime:   960.398ms
+WithCamTime:   1020.398ms
+movesTimeHistogram:
+600,1,0%
+700,43,4%
+800,430,43%
+900,519,52%
+1000,7,1%
+under1SecHistogram:
+0,403,40%
+1000,597,60%
+
+
+ThreadSolver2 - nkclintrade, 9 threads, D1,R1,L1,D3,B3,B1,U1,L3
+Runs: 1000
+Fails: 0
+avgSolveTime:    41.630ms
+avgMovesTime:   908.034ms
+avgTotalTime:   949.664ms
+WithCamTime:   1009.664ms
+movesTimeHistogram:
+600,1,0%
+700,31,3%
+800,341,34%
+900,592,59%
+1000,35,4%
+under1SecHistogram:
+0,441,44%
+1000,559,56%
+
+
+ThreadSolver2 - nkclintrade, 9 threads, U1,D1,U3,D3,U2,D2,R1,F1
+Runs: 1000
+Fails: 0
+avgSolveTime:    39.600ms
+avgMovesTime:   919.229ms
+avgTotalTime:   958.829ms
+WithCamTime:   1018.829ms
+movesTimeHistogram:
+600,2,0%
+700,27,3%
+800,277,28%
+900,627,63%
+1000,67,7%
+under1SecHistogram:
+0,386,39%
+1000,614,61%
+
+
+ThreadSolver2 - nkclintrade, 8 threads, U1,D1,U3,D3,R1,F1,L1,B1
+Runs: 1000
+Fails: 0
+avgSolveTime:    40.969ms
+avgMovesTime:   912.332ms
+avgTotalTime:   953.301ms
+WithCamTime:   1013.301ms
+movesTimeHistogram:
+600,1,0%
+700,31,3%
+800,320,32%
+900,603,60%
+1000,45,4%
+under1SecHistogram:
+0,421,42%
+1000,579,58%
+
+
+ThreadSolver2 - nkclintrade, 8 threads, R1,F1,L1,B1,R3,F3,L3,B3
+Runs: 1000
+Fails: 0
+avgSolveTime:    41.820ms
+avgMovesTime:   910.996ms
+avgTotalTime:   952.816ms
+WithCamTime:   1012.816ms
+movesTimeHistogram:
+700,31,3%
+800,317,32%
+900,621,62%
+1000,31,3%
+under1SecHistogram:
+0,414,41%
+1000,586,59%
+
+
+ThreadSolver2 - 8 threads, 3,1,2 - nkclintrade
+Runs: 1000
+Fails: 0
+avgSolveTime:    40.714ms
+avgMovesTime:   914.271ms
+avgTotalTime:   954.985ms
+WithCamTime:   1014.985ms
+movesTimeHistogram:
+600,1,0%
+700,31,3%
+800,290,29%
+900,634,63%
+1000,44,4%
+under1SecHistogram:
+0,398,40%
+1000,602,60%
+
+
+ThreadSolver2 - 8 threads, 1,3,2 - nkclintrade
+Runs: 1000
+Fails: 0
+avgSolveTime:    41.374ms
+avgMovesTime:   913.162ms
+avgTotalTime:   954.536ms
+WithCamTime:   1014.536ms
+movesTimeHistogram:
+600,1,0%
+700,30,3%
+800,316,32%
+900,608,61%
+1000,45,4%
+under1SecHistogram:
+0,415,42%
+1000,585,58%
+
+
+ThreadSolver2 - 8 threads, 2,1,3 - nkclintrade
+Runs: 1000
+Fails: 0
+avgSolveTime:    40.949ms
+avgMovesTime:   924.465ms
+avgTotalTime:   965.414ms
+WithCamTime:   1025.414ms
+movesTimeHistogram:
+700,25,2%
+800,248,25%
+900,654,65%
+1000,73,7%
+under1SecHistogram:
+0,350,35%
+1000,650,65%
+
+
+
+
+ThreadSolver2 - cleanup, 9 threads, speed 3 (was 4), early solve - nkclintrade
+Runs: 1000
+Fails: 0
+avgSolveTime:    40.361ms
+avgMovesTime:   916.011ms
+avgTotalTime:   956.372ms
+WithCamTime:   1016.372ms
+movesTimeHistogram:
+700,30,3%
+800,290,29%
+900,634,63%
+1000,46,5%
+under1SecHistogram:
+0,402,40%
+1000,598,60%
+
+
+ThreadSolver2 - cleanup, 6 threads, speed 3 (was 4), early solve - nkclintrade
+Runs: 1000
+Fails: 0
+avgSolveTime:    32.936ms
+avgMovesTime:   925.451ms
+avgTotalTime:   958.387ms
+WithCamTime:   1018.387ms
+movesTimeHistogram:
+700,25,2%
+800,253,25%
+900,639,64%
+1000,83,8%
+under1SecHistogram:
+0,385,38%
+1000,615,62%
+
+
+ThreadSolver2 - cleanup, 8 threads, speed 3 (was 4), early solve - nkclintrade
+Runs: 1000
+Fails: 0
+avgSolveTime:    38.105ms
+avgMovesTime:   917.737ms
+avgTotalTime:   955.842ms
+WithCamTime:   1015.842ms
+movesTimeHistogram:
+700,30,3%
+800,277,28%
+900,642,64%
+1000,51,5%
+under1SecHistogram:
+0,401,40%
+1000,599,60%
+
+
+ThreadSolver2 - cleanup, 10 threads, speed 3 (was 4), early solve - nkclintrade
+Runs: 1000
+Fails: 0
+avgSolveTime:    42.747ms
+avgMovesTime:   914.168ms
+avgTotalTime:   956.915ms
+WithCamTime:   1016.915ms
+movesTimeHistogram:
+700,33,3%
+800,297,30%
+900,632,63%
+1000,38,4%
+under1SecHistogram:
+0,394,39%
+1000,606,61%
+
+
+ThreadSolver2 - cleanup, 16 threads, speed 3 (was 4), early solve - nkclintrade
+Runs: 1000
+Fails: 0
+avgSolveTime:    58.096ms
+avgMovesTime:   902.688ms
+avgTotalTime:   960.784ms
+WithCamTime:   1020.784ms
+movesTimeHistogram:
+700,38,4%
+800,364,36%
+900,587,59%
+1000,11,1%
+under1SecHistogram:
+0,368,37%
+1000,632,63%
+
+
+ThreadSolver2 - 11 threads, speed 3 (was 4), early solve - nkclintrade
+Runs: 1000
+Fails: 0
+avgSolveTime:    43.991ms
+avgMovesTime:   911.506ms
+avgTotalTime:   955.497ms
+WithCamTime:   1015.497ms
+movesTimeHistogram:
+600,1,0%
+700,34,3%
+800,310,31%
+900,623,62%
+1000,32,3%
+under1SecHistogram:
+0,433,43%
+1000,567,57%
+
+Runs: 1000
+Fails: 0
+avgSolveTime:    43.573ms
+avgMovesTime:   911.314ms
+avgTotalTime:   954.887ms
+WithCamTime:   1014.887ms
+movesTimeHistogram:
+600,2,0%
+700,34,3%
+800,308,31%
+900,624,62%
+1000,32,3%
+under1SecHistogram:
+0,431,43%
+1000,569,57%
+
+
+
+ThreadSolver2 - 16 threads, speed 4, early solve - nkclintrade
+Runs: 1000
+Fails: 0
+avgSolveTime:    56.031ms
+avgMovesTime:   901.564ms
+avgTotalTime:   957.595ms
+WithCamTime:   1017.595ms
+movesTimeHistogram:
+600,1,0%
+700,43,4%
+800,371,37%
+900,574,57%
+1000,11,1%
+under1SecHistogram:
+0,417,42%
+1000,583,58%
+
+ThreadSolver2 - 10 threads, speed 4, early solve - nkclintrade
+Runs: 1000
+Fails: 0
+avgSolveTime:    41.029ms
+avgMovesTime:   913.737ms
+avgTotalTime:   954.766ms
+WithCamTime:   1014.766ms
+movesTimeHistogram:
+700,34,3%
+800,301,30%
+900,627,63%
+1000,38,4%
+under1SecHistogram:
+0,429,43%
+1000,571,57%
+
+
+ThreadSolver2 - 12 threads, speed 4, early solve - nkclintrade
+Fails: 0
+avgSolveTime:    46.166ms
+avgMovesTime:   909.277ms
+avgTotalTime:   955.443ms
+WithCamTime:   1015.443ms
+movesTimeHistogram:
+600,1,0%
+700,36,4%
+800,324,32%
+900,612,61%
+1000,27,3%
+under1SecHistogram:
+0,426,43%
+1000,574,57%
+
+
+ThreadSolver2 - 13 threads, speed 4, early solve - nkclintrade
+Runs: 1000
+Fails: 0
+avgSolveTime:    48.941ms
+avgMovesTime:   907.859ms
+avgTotalTime:   956.800ms
+WithCamTime:   1016.800ms
+movesTimeHistogram:
+600,1,0%
+700,36,4%
+800,334,33%
+900,609,61%
+1000,20,2%
+under1SecHistogram:
+0,424,42%
+1000,576,58%
+
+
+ThreadSolver2 - 15 threads, speed 4, early solve - nkclintrade
+Runs: 1000
+Fails: 0
+avgSolveTime:    53.506ms
+avgMovesTime:   904.399ms
+avgTotalTime:   957.905ms
+WithCamTime:   1017.905ms
+movesTimeHistogram:
+600,1,0%
+700,39,4%
+800,351,35%
+900,593,59%
+1000,16,2%
+under1SecHistogram:
+0,410,41%
+1000,590,59%
+
+
+ThreadSolver2 - 4 threads, speed 4, early solve - nkclintrade
+Runs: 1000
+Fails: 0
+avgSolveTime:    25.354ms
+avgMovesTime:   942.984ms
+avgTotalTime:   968.338ms
+WithCamTime:   1028.338ms
+movesTimeHistogram:
+700,19,2%
+800,192,19%
+900,598,60%
+1000,189,19%
+1100,2,0%
+under1SecHistogram:
+0,332,33%
+1000,668,67%
+
+
+ThreadSolver2 - 8 threads, speed 4, early solve - nkclintrade
+Runs: 1000
+Fails: 0
+avgSolveTime:    36.646ms
+avgMovesTime:   917.523ms
+avgTotalTime:   954.169ms
+WithCamTime:   1014.169ms
+movesTimeHistogram:
+700,30,3%
+800,281,28%
+900,638,64%
+1000,51,5%
+under1SecHistogram:
+0,420,42%
+1000,580,58%
+
+
+Standard test:
+Runs: 1000
+Fails: 0
+avgSolveTime:    13.113ms
+avgMovesTime:  1026.312ms
+avgTotalTime:  1039.425ms
+WithCamTime:   1099.425ms
+movesTimeHistogram:
+700,1,0%
+800,53,5%
+900,292,29%
+1000,491,49%
+1100,158,16%
+1200,5,0%
+under1SecHistogram:
+0,128,13%
+1000,872,87%
+
+ThreadSolver2 - 16 threads, speed 4, early solve - nkclinjrf
+Runs: 1000
+Fails: 0
+avgSolveTime:    56.486ms
+avgMovesTime:   901.998ms
+avgTotalTime:   958.484ms
+WithCamTime:   1018.484ms
+movesTimeHistogram:
+600,1,0%
+700,40,4%
+800,370,37%
+900,578,58%
+1000,11,1%
+under1SecHistogram:
+0,402,40%
+1000,598,60%
+
+ThreadSolver2 - 16 threads, speed 4 - nkclinjrf
+Runs: 1000
+Fails: 0
+avgSolveTime:    59.155ms
+avgMovesTime:   897.838ms
+avgTotalTime:   956.993ms
+WithCamTime:   1016.993ms
+movesTimeHistogram:
+600,3,0%
+700,52,5%
+800,386,39%
+900,548,55%
+1000,11,1%
+under1SecHistogram:
+0,378,38%
+1000,622,62%
+
+
+ThreadSolver2 - 16 threads - nkclinjrf
+Runs: 1000
+Fails: 0
+avgSolveTime:    59.284ms
+avgMovesTime:   941.701ms
+avgTotalTime:  1000.985ms
+WithCamTime:   1060.985ms
+movesTimeHistogram:
+700,16,2%
+800,168,17%
+900,688,69%
+1000,128,13%
+under1SecHistogram:
+0,176,18%
+1000,824,82%
+
+ThreadSolver2 - 16 threads - nkclintrade
+Runs: 1000
+Fails: 0
+avgSolveTime:    58.014ms
+avgMovesTime:   941.701ms
+avgTotalTime:   999.715ms
+WithCamTime:   1059.715ms
+movesTimeHistogram:
+700,16,2%
+800,168,17%
+900,688,69%
+1000,128,13%
+under1SecHistogram:
+0,181,18%
+1000,819,82%
+
+
+ThreadSolver2 - 6 threads - devlab01
+Runs: 1000
+Fails: 0
+avgSolveTime:    65.733ms
+avgMovesTime:   931.294ms
+avgTotalTime:   997.027ms
+WithCamTime:   1057.027ms
+movesTimeHistogram:
+600,1,0%
+700,26,3%
+800,276,28%
+900,549,55%
+1000,148,15%
+under1SecHistogram:
+0,236,24%
+1000,764,76%
+
+ThreadSolver2 - 12 threads - devlab04
+Runs: 1000
+Fails: 0
+avgSolveTime:   144.278ms
+avgMovesTime:   914.277ms
+avgTotalTime:  1058.555ms
+WithCamTime:   1118.555ms
+movesTimeHistogram:
+600,1,0%
+700,40,4%
+800,344,34%
+900,548,55%
+1000,67,7%
+under1SecHistogram:
+0,129,13%
+1000,871,87%
+
+
+ThreadSolver2 - 16 threads - nkclinjrf
+Runs: 1000
+Fails: 0
+avgSolveTime:    57.637ms
+avgMovesTime:   902.499ms
+avgTotalTime:   960.136ms
+WithCamTime:   1020.136ms
+movesTimeHistogram:
+600,2,0%
+700,49,5%
+800,413,41%
+900,511,51%
+1000,25,2%
+under1SecHistogram:
+0,373,37%
+1000,627,63%
+
+
+ThreadSolver2 - 19 threads
+Runs: 1000
+Fails: 0
+avgSolveTime:    65.582ms
+avgMovesTime:   895.102ms
+avgTotalTime:   960.684ms
+WithCamTime:   1020.684ms
+movesTimeHistogram:
+600,2,0%
+700,60,6%
+800,459,46%
+900,463,46%
+1000,16,2%
+under1SecHistogram:
+0,380,38%
+1000,620,62%
+
+ThreadSolver2 - 13 threads
+Runs: 1000
+Fails: 0
+avgSolveTime:    49.773ms
+avgMovesTime:   911.963ms
+avgTotalTime:   961.736ms
+WithCamTime:   1021.736ms
+movesTimeHistogram:
+600,1,0%
+700,41,4%
+800,362,36%
+900,539,54%
+1000,57,6%
+under1SecHistogram:
+0,357,36%
+1000,643,64%
+
+
+ThreadSolver2 - 4 threads
+Runs: 1000
+Fails: 0
+avgSolveTime:    27.148ms
+avgMovesTime:   940.342ms
+avgTotalTime:   967.490ms
+WithCamTime:   1027.490ms
+movesTimeHistogram:
+600,1,0%
+700,23,2%
+800,239,24%
+900,530,53%
+1000,206,21%
+1100,1,0%
+under1SecHistogram:
+0,330,33%
+1000,670,67%
+
+
+
+        { 24, 1000, "" },
+Runs: 1000
+Fails: 0
+avgSolveTime:    15.422ms
+avgMovesTime:   988.000ms
+avgTotalTime:  1003.422ms
+WithCamTime:   1063.422ms
+movesTimeHistogram:
+700,8,1%
+800,126,13%
+900,381,38%
+1000,424,42%
+1100,61,6%
+under1SecHistogram:
+0,207,21%
+1000,793,79%
+
+
+//19 threads
+        { 24, 1000, "" },
+        { 24, 1000, "U" },
+        { 24, 1000, "R" },
+        { 24, 1000, "F" },
+        { 24, 1000, "D" },
+        { 24, 1000, "L" },
+        { 24, 1000, "B" },
+        { 24, 1000, "U'" },
+        { 24, 1000, "R'" },
+        { 24, 1000, "F'" },
+        { 24, 1000, "D'" },
+        { 24, 1000, "L'" },
+        { 24, 1000, "B'" },
+        { 24, 1000, "U2" },
+        { 24, 1000, "R2" },
+        { 24, 1000, "F2" },
+        { 24, 1000, "D2" },
+        { 24, 1000, "L2" },
+        { 24, 1000, "B2" },
+Runs: 1000
+Fails: 0
+avgSolveTime:    81.659ms
+avgMovesTime:   896.584ms
+avgTotalTime:   978.243ms
+WithCamTime:   1038.243ms
+movesTimeHistogram:
+600,2,0%
+700,48,5%
+800,466,47%
+900,468,47%
+1000,16,2%
+under1SecHistogram:
+0,279,28%
+1000,721,72%
+
+
+
+//13 threads
+        { 24, 1000, "" },
+        { 24, 1000, "U" },
+        { 24, 1000, "R" },
+        { 24, 1000, "F" },
+        { 24, 1000, "D" },
+        { 24, 1000, "L" },
+        { 24, 1000, "B" },
+        { 24, 1000, "U'" },
+        { 24, 1000, "R'" },
+        { 24, 1000, "F'" },
+        { 24, 1000, "D'" },
+        { 24, 1000, "L'" },
+        { 24, 1000, "B'" },
+Runs: 1000
+Fails: 0
+avgSolveTime:    64.674ms
+avgMovesTime:   903.279ms
+avgTotalTime:   967.953ms
+WithCamTime:   1027.953ms
+movesTimeHistogram:
+600,2,0%
+700,41,4%
+800,424,42%
+900,504,50%
+1000,29,3%
+under1SecHistogram:
+0,325,32%
+1000,675,68%
+
+
+        { 24, 1000, "" },
+        { 24, 1000, "U" },
+        { 24, 1000, "R" },
+        { 24, 1000, "F" },
+        { 24, 1000, "D" },
+        { 24, 1000, "L" },
+        { 24, 1000, "B" },
+        { 24, 1000, "U'" },
+        { 24, 1000, "R'" },
+Runs: 1000
+Fails: 0
+avgSolveTime:    53.675ms
+avgMovesTime:   918.125ms
+avgTotalTime:   971.800ms
+WithCamTime:   1031.800ms
+movesTimeHistogram:
+600,1,0%
+700,26,3%
+800,351,35%
+900,550,55%
+1000,72,7%
+under1SecHistogram:
+0,321,32%
+1000,679,68%
+
+        { 24, 1000, "" },
+        { 24, 1000, "U" },
+        { 24, 1000, "R" },
+        { 24, 1000, "F" },
+        { 24, 1000, "D" },
+        { 24, 1000, "L" },
+        { 24, 1000, "B" },
+        { 24, 1000, "U'" },
+Runs: 1000
+Fails: 0
+avgSolveTime:    49.526ms
+avgMovesTime:   920.881ms
+avgTotalTime:   970.407ms
+WithCamTime:   1030.407ms
+movesTimeHistogram:
+600,1,0%
+700,24,2%
+800,334,33%
+900,559,56%
+1000,82,8%
+under1SecHistogram:
+0,319,32%
+1000,681,68%
+
+
+        { 24, 1000, "" },
+        { 24, 1000, "U" },
+        { 24, 1000, "R" },
+        { 24, 1000, "F" },
+        { 24, 1000, "D" },
+        { 24, 1000, "L" },
+        { 24, 1000, "B" },
+Runs: 1000
+Fails: 0
+avgSolveTime:    48.311ms
+avgMovesTime:   922.727ms
+avgTotalTime:   971.038ms
+WithCamTime:   1031.038ms
+movesTimeHistogram:
+600,1,0%
+700,24,2%
+800,322,32%
+900,562,56%
+1000,91,9%
+under1SecHistogram:
+0,315,32%
+1000,685,68%
+
+
+
+        { 24, 1000, "" },
+        { 24, 1000, "U" },
+        { 24, 1000, "R" },
+        { 24, 1000, "F" },
+Runs: 1000
+Fails: 0
+avgSolveTime:    37.230ms
+avgMovesTime:   950.456ms
+avgTotalTime:   987.686ms
+WithCamTime:   1047.686ms
+movesTimeHistogram:
+600,1,0%
+700,13,1%
+800,204,20%
+900,537,54%
+1000,242,24%
+1100,3,0%
+under1SecHistogram:
+0,239,24%
+1000,761,76%
+
+
+        { 24, 1000, "" },
+        { 24, 1000, "U" },
+        { 24, 1000, "R" },
+        { 24, 1000, "F" },
+        { 24, 1000, "D" },
+        { 24, 1000, "L" },
+        { 24, 1000, "B" },
+Runs: 1000
+Fails: 0
+avgSolveTime:    58.232ms
+avgMovesTime:   922.727ms
+avgTotalTime:   980.959ms
+WithCamTime:   1040.959ms
+movesTimeHistogram:
+600,1,0%
+700,24,2%
+800,322,32%
+900,562,56%
+1000,91,9%
+under1SecHistogram:
+0,273,27%
+1000,727,73%
+
+
+
+1 thread, standard
+Runs: 1000
+Fails: 0
+avgSolveTime:    13.188ms
+avgMovesTime:   940.422ms
+avgTotalTime:   953.610ms
+WithCamTime:   1013.610ms
+movesTimeHistogram:
+700,28,3%
+800,223,22%
+900,544,54%
+1000,197,20%
+1100,8,1%
+under1SecHistogram:
+0,413,41%
+1000,587,59%
+
+
+3 threads, standard, R1, and U1
+Runs: 1000
+Fails: 0
+avgSolveTime:    26.731ms
+avgMovesTime:   904.467ms
+avgTotalTime:   931.198ms
+WithCamTime:    991.198ms
+movesTimeHistogram:
+600,1,0%
+700,46,5%
+800,362,36%
+900,545,54%
+1000,46,5%
+under1SecHistogram:
+0,535,54%
+1000,465,46%
+
+
+
+
+4 threads, standard, R1, R2, and R3 (no better)
+Runs: 1000
+Fails: 0
+avgSolveTime:    30.733ms
+avgMovesTime:   910.114ms
+avgTotalTime:   940.847ms
+WithCamTime:   1000.847ms
+movesTimeHistogram:
+700,37,4%
+800,334,33%
+900,574,57%
+1000,54,5%
+1100,1,0%
+under1SecHistogram:
+0,473,47%
+1000,527,53%
+
+
+3 threads, standard, R1, and R3 (no better)
+Runs: 1000
+Fails: 0
+avgSolveTime:    24.577ms
+avgMovesTime:   914.978ms
+avgTotalTime:   939.555ms
+WithCamTime:    999.555ms
+movesTimeHistogram:
+700,36,4%
+800,312,31%
+900,577,58%
+1000,74,7%
+1100,1,0%
+under1SecHistogram:
+0,483,48%
+1000,517,52%
+
+
+
+
+
+Threading baseline (home)
+        {24,1000},
+Runs: 1000
+Fails: 0
+avgSolveTime:    13.133ms
+avgMovesTime:   940.422ms
+avgTotalTime:   953.555ms
+WithCamTime:   1013.555ms
+movesTimeHistogram:
+700,28,3%
+800,223,22%
+900,544,54%
+1000,197,20%
+1100,8,1%
+under1SecHistogram:
+0,415,42%
+1000,585,58%
+
+
+        {23, 1000},
+Runs: 1000
+Fails: 0
+avgSolveTime:    12.796ms
+avgMovesTime:   940.422ms
+avgTotalTime:   953.218ms
+WithCamTime:   1013.218ms
+movesTimeHistogram:
+700,28,3%
+800,223,22%
+900,544,54%
+1000,197,20%
+1100,8,1%
+under1SecHistogram:
+0,414,41%
+1000,586,59%
+
+
+        {21,  20},
+        {22,  30},
+        {23,  40},
+        {24,1000},
+Runs: 1000
+Fails: 0
+avgSolveTime:    18.806ms
+avgMovesTime:   940.273ms
+avgTotalTime:   959.079ms
+WithCamTime:   1019.079ms
+movesTimeHistogram:
+700,28,3%
+800,224,22%
+900,543,54%
+1000,197,20%
+1100,8,1%
+under1SecHistogram:
+0,396,40%
+1000,604,60%
+
+
+        {20,  70},
+        {21,  70},
+        {22,  80},
+        {23,  90},
+        {24,1000},
+Runs: 1000
+Fails: 0
+avgSolveTime:    45.195ms
+avgMovesTime:   926.105ms
+avgTotalTime:   971.300ms
+WithCamTime:   1031.300ms
+movesTimeHistogram:
+700,44,4%
+800,291,29%
+900,506,51%
+1000,153,15%
+1100,6,1%
+under1SecHistogram:
+0,378,38%
+1000,622,62%
+
+
+        {21,  70},
+        {22,  80},
+        {23,  90},
+        {24,1000},
+Runs: 1000
+Fails: 0
+avgSolveTime:    22.795ms
+avgMovesTime:   938.799ms
+avgTotalTime:   961.594ms
+WithCamTime:   1021.594ms
+movesTimeHistogram:
+700,28,3%
+800,229,23%
+900,548,55%
+1000,188,19%
+1100,7,1%
+under1SecHistogram:
+0,392,39%
+1000,608,61%
+
+
+Some threads
+        {20,  40},
+        {21,  60},
+        {22,  80},
+        {23, 100},
+        {24,1000},
+Runs: 1000
+Fails: 0
+avgSolveTime:    32.701ms
+avgMovesTime:   930.596ms
+avgTotalTime:   963.297ms
+WithCamTime:   1023.297ms
+movesTimeHistogram:
+700,38,4%
+800,272,27%
+900,520,52%
+1000,164,16%
+1100,6,1%
+under1SecHistogram:
+0,391,39%
+1000,609,61%
+
+
+        {20,  30},
+        {21,  50},
+        {22,  70},
+        {23,  90},
+        {24,1000},
+Runs: 1000
+Fails: 0
+avgSolveTime:    27.937ms
+avgMovesTime:   933.708ms
+avgTotalTime:   961.645ms
+WithCamTime:   1021.645ms
+movesTimeHistogram:
+700,35,4%
+800,258,26%
+900,524,52%
+1000,177,18%
+1100,6,1%
+under1SecHistogram:
+0,385,38%
+1000,615,62%
+
+
+
+
+
+Basic 24 Solve (no threads) - optimzation baseline
+Runs: 1000
+Fails: 0
+avgSolveTime:    14.434ms
+avgMovesTime:   940.422ms
+avgTotalTime:   954.856ms
+WithCamTime:   1014.856ms
+movesTimeHistogram:
+700,28,3%
+800,223,22%
+900,544,54%
+1000,197,20%
+1100,8,1%
+
+
+
+        Single    Threaded
+600     0,0%      2,0%
+700     28,3%     60,6%
+800     223,22%   318,32%
+900     544,54%   466,47%
+1000    197,20%   148,15%
+1100    8,1%      6,1%
+
+
+
+        {24,1000},
+avgSolveTime:    12.450ms
+avgMovesTime:   940.422ms
+avgTotalTime:   952.872ms
+WithCamTime:   1012.872ms
+700,1,0%
+800,72,7%
+900,344,34%
+1000,462,46%
+1100,116,12%
+1200,5,0%
+[moves time]
+700,28,3%
+800,223,22%
+900,544,54%
+1000,197,20%
+1100,8,1%
+
+
+        {17, 100},
+        {18, 100},
+        {19, 100},
+        {20, 100},
+        {22, 100},
+        {24,1000},
+avgSolveTime:   100.945ms
+avgMovesTime:   919.163ms
+avgTotalTime:  1020.108ms
+WithCamTime:   1080.108ms
+[moves time]
+600,2,0%
+700,60,6%
+800,318,32%
+900,466,47%
+1000,148,15%
+1100,6,1%
+
+
+
+        {17,  15},
+        {20,  15},
+        {24,1000},
+avgSolveTime:    20.144ms
+avgMovesTime:   937.501ms
+avgTotalTime:   957.645ms
+WithCamTime:   1017.645ms
+700,3,0%
+800,59,6%
+900,315,32%
+1000,490,49%
+1100,128,13%
+1200,5,0%
+
+
+
+        {20,  50},
+        {24,1000},
+avgSolveTime:    32.080ms
+avgMovesTime:   928.448ms
+avgTotalTime:   960.528ms
+WithCamTime:   1020.528ms
+700,3,0%
+800,82,8%
+900,323,32%
+1000,393,39%
+1100,187,19%
+1200,12,1%
+
+
+
+        {19, 100},
+        {24,1000},
+avgSolveTime:    87.071ms
+avgMovesTime:   930.362ms
+avgTotalTime:  1017.433ms
+WithCamTime:   1077.433ms
+700,5,0%
+800,54,5%
+900,144,14%
+1000,298,30%
+1100,417,42%
+1200,82,8%
+
+
+
+
+        {17, 100},
+        {18, 100},
+        {19, 100},
+        {20, 100},
+        {21, 100},
+        {22, 100},
+        {23, 100},
+        {24,1000},
+Runs: 1000
+Fails: 0
+avgSolveTime:   123.846ms
+avgMovesTime:   919.884ms
+avgTotalTime:  1043.730ms
+WithCamTime:   1103.730ms
+700,2,0%
+800,7,1%
+900,88,9%
+1000,372,37%
+1100,427,43%
+1200,103,10%
+1300,1,0%

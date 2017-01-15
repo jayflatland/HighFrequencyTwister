@@ -1,0 +1,365 @@
+serDev /dev/serial/by-id/usb-FTDI_FT232R_USB_UART_AD02CTU2-if00-port0
+solveSpeed 4
+calSpeed 2
+cameras
+{
+    camera
+    {
+        dev /dev/v4l/by-id/usb-046d_081b_20648CC0-video-index0
+        exposureAbsolute 333
+    }
+    camera
+    {
+        dev /dev/v4l/by-id/usb-046d_081b_B9548CC0-video-index0
+        exposureAbsolute 333
+    }
+    camera
+    {
+        dev /dev/v4l/by-id/usb-046d_081b_B6A2CCC0-video-index0
+        exposureAbsolute 333
+    }
+    camera
+    {
+        dev /dev/v4l/by-id/usb-046d_081b_866188E0-video-index0
+        exposureAbsolute 333
+    }
+}
+cursors
+{
+    cursor
+    {
+        facelet 0
+        camera 0
+        x 92
+        y 42
+    }
+    cursor
+    {
+        facelet 1
+        camera 0
+        x 81
+        y 38
+    }
+    cursor
+    {
+        facelet 2
+        camera 0
+        x 71
+        y 34
+    }
+    cursor
+    {
+        facelet 3
+        camera 3
+        x 74
+        y 27
+    }
+    cursor
+    {
+        facelet 5
+        camera 3
+        x 94
+        y 37
+    }
+    cursor
+    {
+        facelet 6
+        camera 3
+        x 64
+        y 30
+    }
+    cursor
+    {
+        facelet 7
+        camera 3
+        x 74
+        y 36
+    }
+    cursor
+    {
+        facelet 8
+        camera 3
+        x 85
+        y 40
+    }
+    cursor
+    {
+        facelet 9
+        camera 3
+        x 89
+        y 52
+    }
+    cursor
+    {
+        facelet 10
+        camera 3
+        x 99
+        y 46
+    }
+    cursor
+    {
+        facelet 11
+        camera 1
+        x 79
+        y 64
+    }
+    cursor
+    {
+        facelet 12
+        camera 3
+        x 88
+        y 63
+    }
+    cursor
+    {
+        facelet 14
+        camera 1
+        x 78
+        y 74
+    }
+    cursor
+    {
+        facelet 15
+        camera 3
+        x 87
+        y 74
+    }
+    cursor
+    {
+        facelet 16
+        camera 3
+        x 96
+        y 69
+    }
+    cursor
+    {
+        facelet 17
+        camera 1
+        x 75
+        y 86
+    }
+    cursor
+    {
+        facelet 18
+        camera 3
+        x 58
+        y 39
+    }
+    cursor
+    {
+        facelet 19
+        camera 3
+        x 68
+        y 45
+    }
+    cursor
+    {
+        facelet 20
+        camera 3
+        x 78
+        y 51
+    }
+    cursor
+    {
+        facelet 21
+        camera 3
+        x 58
+        y 50
+    }
+    cursor
+    {
+        facelet 23
+        camera 3
+        x 77
+        y 63
+    }
+    cursor
+    {
+        facelet 24
+        camera 2
+        x 78
+        y 84
+    }
+    cursor
+    {
+        facelet 25
+        camera 2
+        x 88
+        y 89
+    }
+    cursor
+    {
+        facelet 26
+        camera 3
+        x 77
+        y 74
+    }
+    cursor
+    {
+        facelet 27
+        camera 2
+        x 73
+        y 94
+    }
+    cursor
+    {
+        facelet 28
+        camera 2
+        x 83
+        y 99
+    }
+    cursor
+    {
+        facelet 29
+        camera 1
+        x 67
+        y 107
+    }
+    cursor
+    {
+        facelet 30
+        camera 1
+        x 92
+        y 112
+    }
+    cursor
+    {
+        facelet 32
+        camera 1
+        x 74
+        y 101
+    }
+    cursor
+    {
+        facelet 33
+        camera 2
+        x 56
+        y 106
+    }
+    cursor
+    {
+        facelet 34
+        camera 1
+        x 92
+        y 101
+    }
+    cursor
+    {
+        facelet 35
+        camera 1
+        x 83
+        y 96
+    }
+    cursor
+    {
+        facelet 36
+        camera 0
+        x 97
+        y 52
+    }
+    cursor
+    {
+        facelet 37
+        camera 0
+        x 106
+        y 47
+    }
+    cursor
+    {
+        facelet 38
+        camera 2
+        x 70
+        y 63
+    }
+    cursor
+    {
+        facelet 39
+        camera 0
+        x 97
+        y 65
+    }
+    cursor
+    {
+        facelet 41
+        camera 2
+        x 68
+        y 73
+    }
+    cursor
+    {
+        facelet 42
+        camera 0
+        x 98
+        y 75
+    }
+    cursor
+    {
+        facelet 43
+        camera 0
+        x 106
+        y 70
+    }
+    cursor
+    {
+        facelet 44
+        camera 2
+        x 68
+        y 84
+    }
+    cursor
+    {
+        facelet 45
+        camera 0
+        x 68
+        y 43
+    }
+    cursor
+    {
+        facelet 46
+        camera 0
+        x 77
+        y 47
+    }
+    cursor
+    {
+        facelet 47
+        camera 0
+        x 86
+        y 51
+    }
+    cursor
+    {
+        facelet 48
+        camera 1
+        x 88
+        y 75
+    }
+    cursor
+    {
+        facelet 50
+        camera 0
+        x 87
+        y 64
+    }
+    cursor
+    {
+        facelet 51
+        camera 1
+        x 88
+        y 86
+    }
+    cursor
+    {
+        facelet 52
+        camera 0
+        x 78
+        y 70
+    }
+    cursor
+    {
+        facelet 53
+        camera 0
+        x 86
+        y 76
+    }
+}

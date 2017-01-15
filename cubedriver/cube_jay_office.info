@@ -1,0 +1,426 @@
+threads 8
+serDev /dev/serial/by-id/usb-FTDI_FT232R_USB_UART_AD02CTU2-if00-port0
+solveSpeed 4
+calSpeed 1
+xres 320
+yres 240
+previewScale 1
+targetMS 900
+cameras
+{
+    camera
+    {
+        dev /dev/v4l/by-id/usb-046d_081b_20648CC0-video-index0
+        exposureAbsolute 333
+        whiteBalanceTemperature 2000
+        gain 64
+    }
+    camera
+    {
+        dev /dev/v4l/by-id/usb-046d_081b_B9548CC0-video-index0
+        exposureAbsolute 333
+        whiteBalanceTemperature 2000
+        gain 64
+    }
+    camera
+    {
+        dev /dev/v4l/by-id/usb-046d_081b_B6A2CCC0-video-index0
+        exposureAbsolute 333
+        whiteBalanceTemperature 2000
+        gain 80
+    }
+    camera
+    {
+        dev /dev/v4l/by-id/usb-046d_081b_866188E0-video-index0
+        exposureAbsolute 200
+        whiteBalanceTemperature 2000
+        gain 128
+    }
+}
+cursors
+{
+    cursor
+    {
+        facelet 0
+        camera 0
+        x 170
+        y 82
+        radius 6
+    }
+    cursor
+    {
+        facelet 1
+        camera 0
+        x 148
+        y 70
+        radius 6
+    }
+    cursor
+    {
+        facelet 2
+        camera 0
+        x 131
+        y 56
+        radius 6
+    }
+    cursor
+    {
+        facelet 6
+        camera 3
+        x 176
+        y 56
+        radius 6
+    }
+    cursor
+    {
+        facelet 7
+        camera 3
+        x 202
+        y 73
+        radius 6
+    }
+    cursor
+    {
+        facelet 8
+        camera 3
+        x 225
+        y 91
+        radius 6
+    }
+    cursor
+    {
+        facelet 9
+        camera 3
+        x 239
+        y 111
+        radius 4
+    }
+    cursor
+    {
+        facelet 10
+        camera 3
+        x 256
+        y 94
+        radius 6
+    }
+    cursor
+    {
+        facelet 12
+        camera 3
+        x 230
+        y 137
+        radius 6
+    }
+    cursor
+    {
+        facelet 14
+        camera 1
+        x 184
+        y 84
+        radius 6
+    }
+    cursor
+    {
+        facelet 15
+        camera 3
+        x 224
+        y 155
+        radius 4
+    }
+    cursor
+    {
+        facelet 17
+        camera 1
+        x 186
+        y 117
+        radius 6
+    }
+    cursor
+    {
+        facelet 18
+        camera 3
+        x 162
+        y 76
+        radius 6
+    }
+    cursor
+    {
+        facelet 19
+        camera 3
+        x 182
+        y 92
+        radius 6
+    }
+    cursor
+    {
+        facelet 20
+        camera 3
+        x 206
+        y 110
+        radius 6
+    }
+    cursor
+    {
+        facelet 23
+        camera 3
+        x 206
+        y 134
+        radius 6
+    }
+    cursor
+    {
+        facelet 24
+        camera 2
+        x 151
+        y 137
+        radius 6
+    }
+    cursor
+    {
+        facelet 25
+        camera 2
+        x 174
+        y 157
+        radius 6
+    }
+    cursor
+    {
+        facelet 26
+        camera 3
+        x 204
+        y 152
+        radius 6
+    }
+    cursor
+    {
+        facelet 27
+        camera 2
+        x 131
+        y 167
+        radius 6
+    }
+    cursor
+    {
+        facelet 28
+        camera 2
+        x 156
+        y 190
+        radius 6
+    }
+    cursor
+    {
+        facelet 29
+        camera 1
+        x 152
+        y 178
+        radius 6
+    }
+    cursor
+    {
+        facelet 30
+        camera 2
+        x 102
+        y 186
+        radius 6
+    }
+    cursor
+    {
+        facelet 32
+        camera 2
+        x 160
+        y 222
+        radius 6
+    }
+    cursor
+    {
+        facelet 33
+        camera 2
+        x 73
+        y 202
+        radius 6
+    }
+    cursor
+    {
+        facelet 35
+        camera 1
+        x 202
+        y 142
+        radius 6
+    }
+    cursor
+    {
+        facelet 36
+        camera 0
+        x 182
+        y 102
+        radius 6
+    }
+    cursor
+    {
+        facelet 38
+        camera 2
+        x 123
+        y 84
+        radius 6
+    }
+    cursor
+    {
+        facelet 39
+        camera 0
+        x 180
+        y 124
+        radius 6
+    }
+    cursor
+    {
+        facelet 41
+        camera 2
+        x 120
+        y 107
+        radius 6
+    }
+    cursor
+    {
+        facelet 42
+        camera 0
+        x 180
+        y 142
+        radius 6
+    }
+    cursor
+    {
+        facelet 43
+        camera 0
+        x 198
+        y 130
+        radius 6
+    }
+    cursor
+    {
+        facelet 44
+        camera 2
+        x 120
+        y 138
+        radius 6
+    }
+    cursor
+    {
+        facelet 45
+        camera 1
+        x 211
+        y 60
+        radius 6
+    }
+    cursor
+    {
+        facelet 46
+        camera 0
+        x 136
+        y 88
+        radius 6
+    }
+    cursor
+    {
+        facelet 47
+        camera 0
+        x 158
+        y 104
+        radius 6
+    }
+    cursor
+    {
+        facelet 48
+        camera 1
+        x 212
+        y 82
+        radius 6
+    }
+    cursor
+    {
+        facelet 50
+        camera 0
+        x 158
+        y 124
+        radius 6
+    }
+    cursor
+    {
+        facelet 51
+        camera 1
+        x 218
+        y 114
+        radius 6
+    }
+    cursor
+    {
+        facelet 53
+        camera 0
+        x 158
+        y 144
+        radius 6
+    }
+    cursor
+    {
+        facelet 16
+        camera 1
+        x 155
+        y 134
+        radius 5
+    }
+    cursor
+    {
+        facelet 52
+        camera 1
+        x 246
+        y 134
+        radius 6
+    }
+    cursor
+    {
+        facelet 34
+        camera 1
+        x 232
+        y 164
+        radius 6
+    }
+    cursor
+    {
+        facelet 11
+        camera 1
+        x 185
+        y 61
+        radius 6
+    }
+    cursor
+    {
+        facelet 21
+        camera 3
+        x 162
+        y 100
+        radius 6
+    }
+    cursor
+    {
+        facelet 5
+        camera 3
+        x 244
+        y 78
+        radius 5
+    }
+    cursor
+    {
+        facelet 37
+        camera 2
+        x 100
+        y 102
+        radius 4
+    }
+    cursor
+    {
+        facelet 3
+        camera 3
+        x 193
+        y 48
+        radius 5
+    }
+}
